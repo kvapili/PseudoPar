@@ -1,0 +1,480 @@
+1.2660124669314514	_ehm_hmm_	_ehm_hmm_	data/vad-2013-09-29-10-44-20.772252.wav	../data/data_voip_en/data/jurcic-001-121008_194602_0000265_0000329.wav
+1.2458523243454218	_noise_	_noise_	data/vad-2013-05-30-11-54-55.969078.wav	../data/data_voip_en/data/jurcic-001-120912_134200_0001993_0002036.wav
+1.2393382962371344	_laugh_	_laugh_	data/vad-2013-06-13-21-09-39.202503.wav	../data/data_voip_en/data/jurcic-001-121013_081610_0000175_0000313.wav
+1.2349019757075497	_inhale_	_inhale_	data/vad-2013-06-11-20-37-06.154527.wav	../data/data_voip_en/data/jurcic-001-120912_215425_0000456_0000616.wav
+1.217865288280907	Internet	Internet	data/VYSTADIAL-ST-2012-05-27--21-37-07-A-0277.67-0279.32.wav	../data/data_voip_en/data/jurcic-002-121017_173044_0002797_0002860.wav
+1.213639901321503	Restart	Restart	data/vad-2013-10-12-01-02-45.978468.wav	../data/data_voip_en/data/jurcic-005-130717_185749_0005951_0006087.wav
+1.1991482403960176	Zero one, two, two, three, three, six, three, four seven one.	Jedna dva tři štyři pět.	data/VYSTADIAL-ST-2012-05-07--22-26-47-A-0926.45-0931.92.wav	../data/data_voip_en/data/jurcic-008-120914_110826_0010040_0010387.wav
+1.1810308786602102	RESET	RESET	data/vad-2013-09-30-20-32-19.443272.wav	../data/data_voip_en/data/jurcic-009-120923_171006_0009152_0009250.wav
+1.156041614277473	Ten to fifteen market.	Jo, deset deset padesát.	data/VYSTADIAL-ST-2012-10-23--19-12-03-B-0140.07-0142.16.wav	../data/data_voip_en/data/jurcic-004-120914_105737_0007856_0008027.wav
+1.1468718488356815	Hi, I want to find the nearest.	No, chci jet nejbližším spojem.	data/vad-2013-07-09-15-57-21.818421.wav	../data/data_voip_en/data/jurcic-001-120916_021509_0001963_0002253.wav
+1.1457414382483546	That is all.	To je všechno.	data/vad-2013-07-12-01-33-45.225462.wav	../data/data_voip_en/data/jurcic-007-120923_045040_0010232_0010332.wav
+1.1371095696309934	o k	O: K.	data/VYSTADIAL-ST-2012-06-24--20-44-32-B-0201.08-0202.77.wav	../data/data_voip_en/data/jurcic-006-130713_232916_0007357_0007436.wav
+1.1343231405711367	No anywhere.	Už nikam ne.	data/vad-2013-06-08-22-45-54.814789.wav	../data/data_voip_en/data/jurcic-002-121005_003655_0004959_0005061.wav
+1.133677964459058	Please.	Prosim.	data/VYSTADIAL-ST-2012-05-07--22-26-47-B-0760.00-0760.75.wav	../data/data_voip_en/data/jurcic-002-130724_192320_0002480_0002540.wav
+1.1316005959644881	Where would I find it?	A kde jí najdu?	data/VYSTADIAL-ST-2012-05-16--19-57-24-B-0312.81-0314.25.wav	../data/data_voip_en/data/jurcic-010-120926_174424_0010267_0010452.wav
+1.1279151151343085	Both of them will have to sign up on it.	No ale tak to musíte oba dva podepsat né ručně.	data/VYSTADIAL-ST-2012-08-06--16-05-50-B-0401.79-0404.73.wav	../data/data_voip_en/data/jurcic-001-130716_010618_0000202_0000383.wav
+1.1278137067949046	Hotel	Hotel.	data/vad-2013-06-28-16-28-31.240637.wav	../data/data_voip_en/data/jurcic-002-120926_095417_0001260_0001381.wav
+1.1274191919758558	No what did you ask?	No a co si se ptala?	data/VYSTADIAL-ST-2012-05-18--16-21-33-B-0290.33-0292.74.wav	../data/data_voip_en/data/jurcic-003-121019_114703_0004372_0004526.wav
+1.125067299244012	and area of the venue.	A vod ňákejch vostatních, jako že eště něco přivezou časem.	data/VYSTADIAL-ST-2012-09-24--08-32-21-B-0223.82-0227.76.wav	../data/data_voip_en/data/jurcic-004-130713_220707_0006053_0006202.wav
+1.1222094272150533	Right?	Že?	data/VYSTADIAL-ST-2012-05-13--16-12-35-B-0128.88-0129.72.wav	../data/data_voip_en/data/jurcic-001-121011_213935_0000353_0000434.wav
+1.1189958718068624	Stop	Stop.	data/vad-2013-06-24-22-36-53.353217.wav	../data/data_voip_en/data/jurcic-008-121029_171935_0008020_0008094.wav
+1.1178371369819997	There.	Tam.	data/VYSTADIAL-ST-2012-10-27--14-06-14-A-0495.49-0495.97.wav	../data/data_voip_en/data/jurcic-009-130722_235032_0006674_0006748.wav
+1.1175019773780042	Still.	Ticho.	data/vad-2013-07-10-19-20-50.790895.wav	../data/data_voip_en/data/jurcic-002-121025_170945_0000642_0000705.wav
+1.1167646585446758	Can we start over?	Můžeme začít znovu.	data/vad-2013-06-21-08-41-45.760040.wav	../data/data_voip_en/data/jurcic-010-130719_095626_0010633_0010784.wav
+1.1131429893973237	Something else.	Ještě něco.	data/VYSTADIAL-ST-2012-09-21--00-57-02-A-0215.96-0217.34.wav	../data/data_voip_en/data/jurcic-004-130719_163416_0005495_0005630.wav
+1.1125999817681183	I'LL: Let you pick.	Já ji řeknu, ať ona tě.	data/VYSTADIAL-ST-2012-08-13--18-19-24-A-0498.19-0500.19.wav	../data/data_voip_en/data/jurcic-002-121015_105501_0003524_0003640.wav
+1.1121887401588568	OK I'm not going to do this with you so.	No ráda jsem si s tebou po ne počkej takhle.	data/VYSTADIAL-ST-2012-05-25--12-31-35-B-0640.53-0644.07.wav	../data/data_voip_en/data/jurcic-007-121019_113710_0007819_0008123.wav
+1.1109598847249893	I think so.	No to si myslim.	data/VYSTADIAL-ST-2012-08-01--17-57-27-B-0193.40-0195.88.wav	../data/data_voip_en/data/jurcic-001-130704_170014_0000436_0000535.wav
+1.1087977143842809	Ring me back	Zavoláš mi pak ještě.	data/VYSTADIAL-ST-2012-09-20--22-10-00-A-0604.75-0606.31.wav	../data/data_voip_en/data/jurcic-003-130719_221933_0003793_0003923.wav
+1.107994072630352	Jesus Christ	Né ježiši kriste.	data/VYSTADIAL-ST-2012-09-21--00-57-02-A-0281.94-0284.63.wav	../data/data_voip_en/data/jurcic-011-121007_210336_0010563_0010676.wav
+1.107431430362569	Start over	Start.	data/VYSTADIAL-ST-2012-05-16--19-57-24-B-0205.43-0207.10.wav	../data/data_voip_en/data/jurcic-003-121029_193750_0002792_0002891.wav
+1.1062423021401084	Two three school lane.	Klasicky dvě přednášky.	data/VYSTADIAL-ST-2012-10-17--10-57-10-A-0166.98-0169.45.wav	../data/data_voip_en/data/jurcic-005-130702_085510_0007440_0007591.wav
+1.1043473176875893	I am.	Já jsem.	data/VYSTADIAL-ST-2012-05-28--16-18-54-B-0301.80-0303.27.wav	../data/data_voip_en/data/jurcic-002-130702_164210_0002120_0002221.wav
+1.102047381845186	T / V	Takže v.	data/VYSTADIAL-ST-2012-05-25--23-00-47-B-0142.15-0143.31.wav	../data/data_voip_en/data/jurcic-003-130726_040246_0002773_0002874.wav
+1.101244186548034	European	Evropská.	data/vad-2013-06-08-22-49-35.845272.wav	../data/data_voip_en/data/jurcic-003-130711_194221_0003028_0003124.wav
+1.1007965059919922	No cheap.	Neni to laciný.	data/VYSTADIAL-ST-2012-06-05--10-44-23-B-0771.31-0772.65.wav	../data/data_voip_en/data/jurcic-006-130716_013141_0003224_0003366.wav
+1.0997512235954685	For carringtons.	Na Barrandov.	data/vad-2013-06-08-22-43-09.757398.wav	../data/data_voip_en/data/jurcic-007-120930_013458_0010051_0010193.wav
+1.09952691346034	Normal	Normálka.	data/VYSTADIAL-ST-2012-09-27--17-54-45-B-0147.60-0148.55.wav	../data/data_voip_en/data/jurcic-004-130702_001403_0003609_0003712.wav
+1.098381667942765	is their phone number.	Volá mi to jeho číslo.	data/VYSTADIAL-ST-2012-05-08--11-08-08-B-0216.93-0219.24.wav	../data/data_voip_en/data/jurcic-003-120924_185810_0004988_0005140.wav
+1.0963376765925228	College	Student	data/VYSTADIAL-ST-2012-10-17--18-27-38-B-0589.38-0590.23.wav	../data/data_voip_en/data/jurcic-005-121011_152335_0007969_0008035.wav
+1.0943471572320154	I just have internet.	Ale nemám internet.	data/VYSTADIAL-ST-2012-08-08--16-26-32-B-0149.81-0151.72.wav	../data/data_voip_en/data/jurcic-005-130716_200841_0004715_0004892.wav
+1.0942964367819707	How do I get there?	Jak se tam máte?	data/VYSTADIAL-ST-2012-10-20--12-29-05-B-0058.02-0059.42.wav	../data/data_voip_en/data/jurcic-027-120926_174736_0029500_0029630.wav
+1.0939318427674678	All right, I can do as many as forty total.	Prochodila jsem po štyrech všecko možné.	data/VYSTADIAL-ST-2012-10-13--07-43-26-A-0361.95-0365.61.wav	../data/data_voip_en/data/jurcic-002-121012_201851_0000531_0000870.wav
+1.0935925710374346	First	První.	data/VYSTADIAL-ST-2012-06-05--14-50-35-B-0171.82-0173.81.wav	../data/data_voip_en/data/jurcic-001-130704_172100_0000613_0000817.wav
+1.093578714720764	National restaurant	Národní divadlo	data/vad-2013-07-15-22-12-36.403093.wav	../data/data_voip_en/data/jurcic-003-121020_184424_0003251_0003393.wav
+1.0921416505645694	Usually, it is pretty good.	A jako že bylo to docela dobrý.	data/VYSTADIAL-ST-2012-08-16--20-37-22-A-0427.37-0429.90.wav	../data/data_voip_en/data/jurcic-009-130717_060738_0004681_0004866.wav
+1.0900959883392933	and That's the Fenditton area.	A to je ta Valdštejnská zahrada.	data/VYSTADIAL-ST-2012-05-07--22-26-47-B-0212.50-0214.40.wav	../data/data_voip_en/data/jurcic-012-130704_212405_0009050_0009252.wav
+1.0894875865556735	I'm finished	Teď jsme skončili.	data/VYSTADIAL-ST-2012-05-29--16-34-00-A-0072.94-0074.77.wav	../data/data_voip_en/data/jurcic-006-130717_182955_0007806_0007936.wav
+1.088798323904387	No No.	Ne ne.	data/VYSTADIAL-ST-2012-05-19--16-47-38-A-0086.99-0089.32.wav	../data/data_voip_en/data/jurcic-001-130702_000907_0000110_0000517.wav
+1.0885583010131767	Only.	Jenom.	data/VYSTADIAL-ST-2012-09-24--18-53-31-A-0367.32-0368.28.wav	../data/data_voip_en/data/jurcic-003-130719_100130_0001676_0001760.wav
+1.0877308207632308	Repeat.	Opakovat.	data/vad-2013-06-27-11-43-12.521178.wav	../data/data_voip_en/data/jurcic-002-120912_170511_0002718_0002784.wav
+1.0872060480525596	Museum	Muzeum.	data/vad-2013-07-06-16-17-19.688387.wav	../data/data_voip_en/data/jurcic-002-130719_180511_0003615_0003735.wav
+1.0868461481932312	And tell me if it has a TV.	A jestli to bude v televizi.	data/VYSTADIAL-ST-2012-05-11--13-26-19-B-0328.38-0330.57.wav	../data/data_voip_en/data/jurcic-003-130705_181252_0002564_0002803.wav
+1.0866178030447817	OK That's Great Thank, you I appreciate it.	Ty jo super, to si tě vážím.	data/VYSTADIAL-ST-2012-08-10--19-54-17-A-0107.27-0110.85.wav	../data/data_voip_en/data/jurcic-005-121024_235934_0007639_0007952.wav
+1.0861886002370928	Really, yeah.	To fakt jo, no.	data/VYSTADIAL-ST-2012-05-18--16-04-44-A-0175.26-0177.30.wav	../data/data_voip_en/data/jurcic-008-130717_060735_0004499_0004579.wav
+1.0845414292492328	I Don't I Don't Mind anything will be fine.	Já nevím, jinak se nic nestalo nic.	data/VYSTADIAL-ST-2012-10-19--11-25-45-A-0180.49-0182.57.wav	../data/data_voip_en/data/jurcic-003-120925_024228_0004507_0004805.wav
+1.084311964204233	Ugly, duckling, ugly, duckling	Majdu, majdulíno, majdulíno, majdulíno.	data/VYSTADIAL-ST-2012-08-13--09-25-04-B-0442.78-0446.93.wav	../data/data_voip_en/data/jurcic-025-120925_184926_0017690_0018039.wav
+1.0838038951125053	And a television.	Ta televizní.	data/VYSTADIAL-ST-2012-06-05--14-50-35-B-0142.81-0144.69.wav	../data/data_voip_en/data/jurcic-010-130722_035720_0005970_0006120.wav
+1.0834517944783162	Not yet.	No, zatím no.	data/VYSTADIAL-ST-2012-05-18--19-22-02-B-0154.57-0157.62.wav	../data/data_voip_en/data/jurcic-001-121012_203056_0000277_0000382.wav
+1.0827718957792707	Anything is OK.	Všecko v pořádku.	data/VYSTADIAL-ST-2012-06-21--09-16-41-A-0061.92-0063.89.wav	../data/data_voip_en/data/jurcic-002-130723_222540_0003251_0003396.wav
+1.0824750055682288	Pricing information	Fakturační údaje	data/vad-2013-10-09-17-34-48.815336.wav	../data/data_voip_en/data/jurcic-004-120926_014949_0005808_0006063.wav
+1.0817141478841155	Nothing.	Nic.	data/VYSTADIAL-ST-2012-05-07--22-26-47-A-0652.05-0652.83.wav	../data/data_voip_en/data/jurcic-001-130702_165725_0000262_0000411.wav
+1.0813310527368933	Any:	Když:	data/VYSTADIAL-ST-2012-05-16--19-57-24-B-0199.14-0200.76.wav	../data/data_voip_en/data/jurcic-002-120912_213314_0003116_0003215.wav
+1.0811052605038929	Where?	Kde?	data/VYSTADIAL-ST-2012-08-17--19-40-24-A-0695.77-0697.35.wav	../data/data_voip_en/data/jurcic-015-120926_174523_0016192_0016318.wav
+1.081048722960495	You're making me tired computer.	On je myslim unavený.	data/VYSTADIAL-ST-2012-05-11--15-12-29-B-0395.00-0396.56.wav	../data/data_voip_en/data/jurcic-021-120926_021623_0013539_0013711.wav
+1.0798945404055684	Confirm.	Ano, potvrzuji.	data/vad-2013-07-09-15-54-23.663558.wav	../data/data_voip_en/data/jurcic-008-130711_184419_0006874_0007033.wav
+1.0791951511968534	I said I wanted Chinese.	Já mluvim česky, co jsem řekla.	data/VYSTADIAL-ST-2012-06-20--17-32-20-B-0294.68-0297.44.wav	../data/data_voip_en/data/jurcic-009-121025_210541_0010963_0011091.wav
+1.0771802243728605	Old School	Základní škola	data/vad-2013-10-15-18-57-08.901607.wav	../data/data_voip_en/data/jurcic-002-130717_191222_0003759_0003885.wav
+1.0771597057379054	That would all be fine.	Takže to by bylo fajn.	data/VYSTADIAL-ST-2012-05-30--14-07-48-A-0184.61-0186.68.wav	../data/data_voip_en/data/jurcic-002-130704_143444_0003386_0003524.wav
+1.0762183562835321	The type of food Doesn't matter.	Takovým to zvířatům je to jedno.	data/VYSTADIAL-ST-2012-05-25--23-00-47-A-0580.89-0585.09.wav	../data/data_voip_en/data/jurcic-002-121007_195939_0003437_0003591.wav
+1.0756110049886094	They need to start.	Musí to začít každou minutu.	data/all-2012-06-16-18-38-18.672412.recorded-0126.51-0128.54.wav	../data/data_voip_en/data/jurcic-001-130702_130601_0000136_0000382.wav
+1.0754441780507613	I need.	Potřebuji.	data/vad-2013-06-07-13-21-14.652274.wav	../data/data_voip_en/data/jurcic-008-121006_163617_0003087_0003149.wav
+1.0739963950746059	What else?	A co jinak?	data/VYSTADIAL-ST-2012-05-11--18-51-58-B-0264.62-0265.97.wav	../data/data_voip_en/data/jurcic-002-130705_131216_0003685_0003801.wav
+1.0729778671323333	Kind of boring, but whatever.	No, asi přeháňka, jako tak to zas jako.	data/VYSTADIAL-ST-2012-06-06--18-31-38-B-0564.36-0567.36.wav	../data/data_voip_en/data/jurcic-001-130722_033306_0000103_0000500.wav
+1.0729169472531794	It's Dead	Zemřela jako.	data/VYSTADIAL-ST-2012-06-06--18-31-38-B-0172.43-0174.36.wav	../data/data_voip_en/data/jurcic-001-121012_024033_0000446_0000513.wav
+1.0727118744305293	The ugly duckling.	Mám škaredý povlečení.	data/VYSTADIAL-ST-2012-09-16--19-56-21-B-0417.09-0418.81.wav	../data/data_voip_en/data/jurcic-018-120925_184833_0012533_0012775.wav
+1.0724518773426654	Restaurant and then	A a to a potom.	data/VYSTADIAL-ST-2012-08-13--13-52-19-A-0707.51-0710.33.wav	../data/data_voip_en/data/jurcic-001-130709_170234_0002085_0002406.wav
+1.0712356467194457	No anything.	A nic.	data/VYSTADIAL-ST-2012-06-21--09-16-41-B-0209.24-0210.04.wav	../data/data_voip_en/data/jurcic-005-130701_191035_0005716_0005901.wav
+1.0709374963055258	No anything else.	Jinak nic.	data/VYSTADIAL-ST-2012-08-25--12-28-05-B-0238.77-0240.15.wav	../data/data_voip_en/data/jurcic-016-130705_035239_0013534_0013676.wav
+1.069751537144645	What is?	Co je?	data/VYSTADIAL-ST-2012-09-28--18-36-07-B-0061.20-0062.12.wav	../data/data_voip_en/data/jurcic-005-120924_215422_0004658_0004731.wav
+1.0680406947435248	The picture you get all the junk off.	No, veškerý to tůtání to musí tůtat.	data/VYSTADIAL-ST-2012-08-08--16-26-32-A-0476.11-0479.43.wav	../data/data_voip_en/data/jurcic-003-130716_174914_0001237_0001352.wav
+1.0679244205884573	Hold on	Vydržet.	data/VYSTADIAL-ST-2012-10-17--18-27-38-B-0886.56-0887.65.wav	../data/data_voip_en/data/jurcic-001-130724_031927_0002057_0002204.wav
+1.0675097618917937	No.	No.	data/VYSTADIAL-ST-2012-05-07--22-26-47-A-0094.96-0096.46.wav	../data/data_voip_en/data/jurcic-001-120930_061829_0001250_0001312.wav
+1.0672940744082164	OK, may I have the phone number again.	Jo, hele, já ti zavolám ještě jednou přes to číslo.	data/VYSTADIAL-ST-2012-10-16--14-38-57-A-0187.68-0190.93.wav	../data/data_voip_en/data/jurcic-014-130708_183707_0013091_0013306.wav
+1.0667963500870865	Is this French?	To neni český.	data/VYSTADIAL-ST-2012-06-20--17-32-20-A-0298.27-0300.13.wav	../data/data_voip_en/data/jurcic-003-130712_030636_0003089_0003207.wav
+1.0667185789460303	Acanywhere will do.	Kdykoli, když se to dělá.	data/VYSTADIAL-ST-2012-05-17--20-37-10-A-0485.31-0486.69.wav	../data/data_voip_en/data/jurcic-002-130705_180058_0003683_0003834.wav
+1.0666389989755514	K. That's all thank you.	To bylo všechno děkuje.	data/all-2012-07-16-18-08-03.512088.recorded-0601.40-9999.00.wav	../data/data_voip_en/data/jurcic-005-130626_200852_0007498_0007649.wav
+1.0666173609702658	Why Don't you understand take away?	A jak to, že ti to nešlo to vytočení?	data/VYSTADIAL-ST-2012-08-08--16-26-32-A-0426.51-0429.07.wav	../data/data_voip_en/data/jurcic-024-120926_022748_0023773_0023968.wav
+1.0656431905440626	I can just hang up right. - Yeah.	A pak se budu ve stavu vyjet. No.	data/VYSTADIAL-ST-2012-05-28--16-18-54-B-0113.92-0117.49.wav	../data/data_voip_en/data/jurcic-003-121011_020903_0003506_0003635.wav
+1.0650861896843165	No the phone number.	Ne na telefonu moment.	data/VYSTADIAL-ST-2012-09-03--20-34-46-B-0890.48-0892.41.wav	../data/data_voip_en/data/jurcic-004-120920_175451_0006801_0006941.wav
+1.064998521287721	Pembroke is fine.	No a Petruška pojede, tak to je v pohodě.	data/VYSTADIAL-ST-2012-08-17--17-12-05-A-0358.10-0360.52.wav	../data/data_voip_en/data/jurcic-005-121025_210451_0005987_0006129.wav
+1.0647415490868546	Does not matter you tell me type?	No ale to je jedno, tak povídej povídej, jakej byl král.	data/VYSTADIAL-ST-2012-05-16--14-48-40-A-0279.72-0282.35.wav	../data/data_voip_en/data/jurcic-003-120925_191435_0002704_0002867.wav
+1.064617343845297	Wait can I.	No počkej a.	data/VYSTADIAL-ST-2012-10-27--14-06-14-A-0895.98-0898.11.wav	../data/data_voip_en/data/jurcic-004-130701_235541_0001919_0002215.wav
+1.0645937392991012	OK, let me just finish it.	Tak jo, mami tak budem končit.	data/VYSTADIAL-ST-2012-05-18--14-31-32-A-0454.65-0456.13.wav	../data/data_voip_en/data/jurcic-002-121001_024517_0000650_0000804.wav
+1.0640299220674247	Yeah, yeah.	Jo, no jasné.	data/VYSTADIAL-ST-2012-10-27--14-06-14-A-0292.45-0293.73.wav	../data/data_voip_en/data/jurcic-016-120926_022640_0017051_0017119.wav
+1.0639944924882279	Go back.	Ale jdi.	data/VYSTADIAL-ST-2012-08-24--10-45-33-B-0171.71-0172.96.wav	../data/data_voip_en/data/jurcic-007-121001_010231_0007647_0007785.wav
+1.063815708991311	Where is it located?	Kam se to ukládá?	data/VYSTADIAL-ST-2012-08-17--19-40-24-A-0675.02-0676.39.wav	../data/data_voip_en/data/jurcic-002-121019_033622_0004102_0004315.wav
+1.0636861658094467	Again again.	Ještě jednou.	data/VYSTADIAL-ST-2012-05-12--17-05-32-A-0252.83-0253.68.wav	../data/data_voip_en/data/jurcic-011-120923_173743_0009380_0009525.wav
+1.063605848408042	Excellent OK thank you.	Jo, super, děkuju.	data/VYSTADIAL-ST-2012-05-18--14-31-32-A-0548.81-0550.10.wav	../data/data_voip_en/data/jurcic-006-130715_154845_0009064_0009288.wav
+1.063563838904458	Now.	Teďka.	data/VYSTADIAL-ST-2012-05-24--21-28-32-B-0342.00-0344.64.wav	../data/data_voip_en/data/jurcic-002-121014_173018_0003209_0003287.wav
+1.0635053587907652	I bet it is.	Jo že bych se taky vsadil.	data/VYSTADIAL-ST-2012-10-15--17-54-11-A-0654.92-0656.48.wav	../data/data_voip_en/data/jurcic-018-121015_110415_0011288_0011385.wav
+1.0632672660244413	You said that like five times can I have the address.	Teď jsem měl čas, ale jako mám pohovor, mám pátého šestý.	data/VYSTADIAL-ST-2012-05-27--21-37-07-B-0294.91-0299.02.wav	../data/data_voip_en/data/jurcic-009-121011_002907_0009072_0009356.wav
+1.0632629680566472	Yeah, no crap you've told me that like a hundred times now.	Jo, jo, jo, to už jsi mi říkal vlastně to už.	data/VYSTADIAL-ST-2012-05-11--20-32-03-A-0166.85-0169.37.wav	../data/data_voip_en/data/jurcic-015-130705_183620_0012433_0012696.wav
+1.063178043445319	And what area is this.	A to je jaké.	data/vad-2013-09-29-18-57-55.320155.wav	../data/data_voip_en/data/jurcic-011-130719_093053_0008552_0008702.wav
+1.0620604472896018	Very good can I have.	Takže už to mam jako dobré.	data/VYSTADIAL-ST-2012-10-17--16-11-30-A-0596.61-0598.58.wav	../data/data_voip_en/data/jurcic-003-120913_161610_0006437_0006583.wav
+1.061737892211907	Caesars palace	Veletržní palác	data/vad-2013-10-04-14-29-41.404847.wav	../data/data_voip_en/data/jurcic-004-130709_155305_0003713_0003979.wav
+1.0617123571256537	is not charged.	Vona neni vobjednaná.	data/VYSTADIAL-ST-2012-05-11--21-44-03-B-0171.07-0172.75.wav	../data/data_voip_en/data/jurcic-019-120926_180023_0019440_0019558.wav
+1.061263479595819	No pub food.	Ne s bramborama.	data/VYSTADIAL-ST-2012-10-15--11-01-32-B-0096.04-0097.17.wav	../data/data_voip_en/data/jurcic-002-120924_190540_0003751_0003932.wav
+1.0609903783417654	PUB Internet connection Television	Automatický tisk potvrzení o spojení	data/all-2012-06-25-20-04-04.508513.recorded-0596.44-0599.92.wav	../data/data_voip_en/data/jurcic-001-130701_230032_0002034_0002336.wav
+1.060978057598803	I get done with in two minutes it adds up real quick.	Dvě tři minuty, než jako se dostane k tomu, že vopravdu mluví s tim člověkem.	data/VYSTADIAL-ST-2012-05-08--11-08-08-B-0207.30-0211.24.wav	../data/data_voip_en/data/jurcic-001-120913_003205_0000154_0000397.wav
+1.0609712557696334	Damn	Prdel.	data/VYSTADIAL-ST-2012-09-21--00-57-02-A-0417.50-0419.44.wav	../data/data_voip_en/data/jurcic-008-130717_140521_0009830_0009900.wav
+1.0608821015621632	Thanks.	Díky.	data/VYSTADIAL-ST-2012-05-19--16-47-38-A-0223.26-0224.09.wav	../data/data_voip_en/data/jurcic-015-120913_165730_0009270_0009325.wav
+1.0605183086593164	Do not care.	To se neboj.	data/VYSTADIAL-ST-2012-06-20--17-32-20-B-0127.49-0128.78.wav	../data/data_voip_en/data/jurcic-002-121007_190950_0003387_0003490.wav
+1.0600841351432517	I'm on the phone I'll call you right back.	Já ti zavolám znova na todle můžu.	data/VYSTADIAL-ST-2012-05-17--20-26-15-A-0529.29-0531.42.wav	../data/data_voip_en/data/jurcic-010-121013_221307_0006004_0006147.wav
+1.0599114102568314	Is that correct?	No, to je pravda, no?	data/VYSTADIAL-ST-2012-06-22--09-55-28-A-0122.31-0124.53.wav	../data/data_voip_en/data/jurcic-009-120914_110830_0010678_0010779.wav
+1.0599038114954054	Do you have a French restaurant?	Žila jste nějaký čas ve Francii?	data/all-2012-06-22-12-23-33.246377.recorded-0470.05-0472.18.wav	../data/data_voip_en/data/jurcic-007-130717_011143_0007133_0007324.wav
+1.059804490460617	Can I also have the post code if you happen to know?	Tak já si vemu možná taky pas, jestli ho najdu.	data/VYSTADIAL-ST-2012-09-20--22-10-00-B-0567.25-0569.62.wav	../data/data_voip_en/data/jurcic-003-121026_072853_0005244_0005610.wav
+1.0590993987705883	Chele.	Hůrka.	data/vad-2013-10-13-11-02-59.884091.wav	../data/data_voip_en/data/jurcic-002-120912_135640_0003452_0003545.wav
+1.0587966822534296	Is there a different area?	Je ještě jiná varianta.	data/vad-2013-07-24-08-08-51.882952.wav	../data/data_voip_en/data/jurcic-006-121011_034604_0007150_0007280.wav
+1.0587751614179897	Pricing examples pricing examples	Látka je v zápětí vysvětlena na příkladech.	data/all-2013-01-17-12-12-43.566494.recorded-0405.54-0409.32.wav	../data/data_voip_en/data/jurcic-005-120926_015434_0007898_0009802.wav
+1.0586286740395114	If you want	Kdyby chtěl.	data/VYSTADIAL-ST-2012-10-15--17-54-11-A-0813.07-0813.96.wav	../data/data_voip_en/data/jurcic-001-121029_194130_0000179_0000216.wav
+1.058513929406023	Jesus	Ježišmarja.	data/VYSTADIAL-ST-2012-10-18--21-02-43-B-0172.25-0173.69.wav	../data/data_voip_en/data/jurcic-011-130705_035157_0009462_0009504.wav
+1.05805778762375	No, it Doesn't need to be near any one.	Nemusíme být připraveni na všechno.	data/all-2012-06-30-15-43-20.953694.recorded-0049.92-0052.60.wav	../data/data_voip_en/data/jurcic-011-130716_040741_0009108_0009302.wav
+1.0579898272491672	I'm Working I'm doing all my interviews.	To chodím jako každý týden chodím.	data/VYSTADIAL-ST-2012-06-18--17-26-23-A-0392.13-0394.28.wav	../data/data_voip_en/data/jurcic-001-121012_202039_0000138_0000583.wav
+1.0577090559779125	Shut up	Tak to sklapne.	data/VYSTADIAL-ST-2012-06-21--09-16-41-B-0204.76-0206.08.wav	../data/data_voip_en/data/jurcic-008-121008_182201_0005062_0005133.wav
+1.05750225961292	Great thank you.	Super děkuju.	data/vad-2013-07-12-01-29-08.653062.wav	../data/data_voip_en/data/jurcic-003-121010_185352_0006091_0006207.wav
+1.0572941356365675	That's Super Does it have a T / V.	Jó dostalo dostalo to V.	data/VYSTADIAL-ST-2012-05-16--14-48-40-A-0255.65-0258.40.wav	../data/data_voip_en/data/jurcic-009-130705_191232_0008365_0008675.wav
+1.0567769136278704	How can I find that restaurant?	Jak to uděláme s tím divadlem?	data/VYSTADIAL-ST-2012-06-06--09-23-00-A-0228.35-0230.32.wav	../data/data_voip_en/data/jurcic-010-120926_173714_0013818_0014051.wav
+1.0564466527014222	No voice, just a random noise.	No tak prostě to a najednou prostě se to začne rozpadat a dělat to divný zvuky.	data/VYSTADIAL-ST-2012-05-08--11-08-08-B-0149.73-0154.38.wav	../data/data_voip_en/data/jurcic-001-130713_203612_0000131_0000209.wav
+1.0562243611018918	Repeat please.	Opakovat prosím.	data/vad-2013-10-09-17-47-59.464621.wav	../data/data_voip_en/data/jurcic-002-120923_044940_0004242_0004361.wav
+1.0558650183712306	Great.	Super.	data/VYSTADIAL-ST-2012-08-27--22-51-10-A-0421.43-0422.30.wav	../data/data_voip_en/data/jurcic-004-130711_193312_0003280_0003342.wav
+1.055778126406639	I like the first one.	No, v že jo prvního.	data/VYSTADIAL-ST-2012-05-11--21-44-03-A-0183.20-0185.11.wav	../data/data_voip_en/data/jurcic-008-120922_182540_0006106_0006248.wav
+1.0556424224424026	Can you close the door?	Nechtěla byste snad sejmout závoj?	data/all-2012-06-09-11-01-25.656143.recorded-0556.57-0558.99.wav	../data/data_voip_en/data/jurcic-001-130720_232435_0001011_0001107.wav
+1.0555111230344647	No, that will be it.	Jo, tak do třeba to bude.	data/VYSTADIAL-ST-2012-05-16--14-48-40-B-0159.83-0161.17.wav	../data/data_voip_en/data/jurcic-003-120926_181113_0002636_0002783.wav
+1.0550236142267	Yes, I care in the city center.	Ano, jedu do centra.	data/vad-2013-10-07-20-46-24.320798.wav	../data/data_voip_en/data/jurcic-019-120930_062544_0011330_0011569.wav
+1.0549846959377482	Well, I Ddidn't ask for free now did I.	Já už jsem první přišla, tak jsem si hned cosi udělala.	data/VYSTADIAL-ST-2012-08-01--17-57-27-B-0443.32-0446.25.wav	../data/data_voip_en/data/jurcic-021-120926_022733_0022269_0022450.wav
+1.0547102284627123	Could you give me the?	Vy byste mi tak pomohli?	data/all-2012-08-23-13-02-34.869571.recorded-0495.92-0497.59.wav	../data/data_voip_en/data/jurcic-006-120925_024926_0009128_0009222.wav
+1.0546173301314663	What the address?	Jak průvodce?	data/VYSTADIAL-ST-2012-05-16--08-44-15-B-0432.43-0434.06.wav	../data/data_voip_en/data/jurcic-002-130721_013723_0002157_0002283.wav
+1.054498107740752	Free restaurant Doesn't Care about the area	Ministerstvo financí se však údajně o problematiku nezajímá.	data/all-2012-07-04-16-54-34.633812.recorded-0273.45-0277.26.wav	../data/data_voip_en/data/jurcic-001-130710_062005_0001887_0002162.wav
+1.0544309694748266	That's Good That's Fine Thank You	Tak to je dobře, to je taky dobře ano.	data/VYSTADIAL-ST-2012-10-18--21-02-43-B-0400.13-0401.99.wav	../data/data_voip_en/data/jurcic-019-120930_060500_0013426_0013580.wav
+1.0543935424803832	I want a different restaurant.	Chci nové jiné.	data/vad-2013-10-09-19-02-05.805654.wav	../data/data_voip_en/data/jurcic-010-130702_014013_0014310_0014580.wav
+1.0539924286510642	Is it?	Že že?	data/VYSTADIAL-ST-2012-06-06--15-16-08-B-0356.02-0357.75.wav	../data/data_voip_en/data/jurcic-002-130702_115359_0004062_0004136.wav
+1.0535899393630903	OK, if you would shut up a second.	Takže se to za chvilku vypne.	data/VYSTADIAL-ST-2012-09-28--18-36-07-B-0919.05-0920.65.wav	../data/data_voip_en/data/jurcic-010-121015_110331_0006748_0006963.wav
+1.053462765043729	in central	Do centra.	data/vad-2013-06-22-11-12-19.840764.wav	../data/data_voip_en/data/jurcic-006-120922_182521_0004198_0004306.wav
+1.0531549652824175	Find me a cafe.	Uvařte mi kafe.	data/vad-2013-07-12-01-35-55.062994.wav	../data/data_voip_en/data/jurcic-001-121014_180935_0001942_0002080.wav
+1.0530806955114724	In my area.	Na Beránku.	data/vad-2013-07-12-01-56-58.444714.wav	../data/data_voip_en/data/jurcic-002-130722_032208_0003413_0003645.wav
+1.0529932882804447	All food	O jídle.	data/VYSTADIAL-ST-2012-05-07--22-26-47-A-0664.72-0665.85.wav	../data/data_voip_en/data/jurcic-003-130701_180943_0004781_0004905.wav
+1.0523871829123777	Newnham is fine.	Trojanová dobře.	data/VYSTADIAL-ST-2012-10-03--16-03-45-A-0122.61-0124.17.wav	../data/data_voip_en/data/jurcic-002-121025_212907_0003474_0003626.wav
+1.0523640015602045	I love you David I love you.	Mám tě moc rád papa.	data/VYSTADIAL-ST-2012-08-10--19-54-17-A-0403.35-0405.75.wav	../data/data_voip_en/data/jurcic-002-130718_214749_0000461_0000650.wav
+1.0521022691822464	OK	dobre	data/VYSTADIAL-ST-2012-05-23--18-44-57-A-0297.38-0298.38.wav	../data/data_voip_en/data/jurcic-001-120920_180944_0001061_0001206.wav
+1.05196698549935	Bye	Čau.	data/VYSTADIAL-ST-2012-05-08--17-02-54-A-0090.80-0091.58.wav	../data/data_voip_en/data/jurcic-003-121014_183908_0005315_0005387.wav
+1.0519412330054931	Why I think It'll stick pick it up?	Proč by chrápal ty myslíš, že Šimon chrápe?	data/VYSTADIAL-ST-2012-08-16--20-37-22-A-0343.88-0346.94.wav	../data/data_voip_en/data/jurcic-001-130721_215850_0000301_0000576.wav
+1.0517072560339387	Yes, cheap restaurant.	Ano, úsporný režim.	data/VYSTADIAL-ST-2012-10-19--11-25-45-A-0387.92-0389.51.wav	../data/data_voip_en/data/jurcic-002-130728_160827_0003012_0003198.wav
+1.0516205583237437	Chele coffee.	Dal jsem si kafe.	data/VYSTADIAL-ST-2012-05-17--20-37-10-B-0300.28-0302.00.wav	../data/data_voip_en/data/jurcic-001-130711_185337_0001382_0001521.wav
+1.0514247301683677	OK are there any other.	Hele a teď tam někdo byl.	data/VYSTADIAL-ST-2012-10-01--20-15-14-A-0701.09-0702.43.wav	../data/data_voip_en/data/jurcic-003-130721_155633_0005664_0005813.wav
+1.051361107559517	Is it American Style Food?	Dovoz amerického obilí.	data/all-2012-10-16-13-50-39.963964.recorded-0093.40-0095.59.wav	../data/data_voip_en/data/jurcic-008-120930_225900_0008112_0008284.wav
+1.0512937384265746	It's said that about eight times now how about the address.	No právě právě osum minut jenom jako že max.	data/VYSTADIAL-ST-2012-05-12--17-05-32-A-0093.70-0097.27.wav	../data/data_voip_en/data/jurcic-010-130705_191649_0008621_0008917.wav
+1.0511355268139628	The the area Doesn't matter I need it.	Jo ostatní věci, ona nepotřebuje.	data/VYSTADIAL-ST-2012-05-17--18-31-16-B-0204.95-0207.19.wav	../data/data_voip_en/data/jurcic-008-121003_190215_0005992_0006279.wav
+1.051131789618527	No any.	Letos.	data/all-2012-10-16-13-50-39.963964.recorded-0601.69-9999.00.wav	../data/data_voip_en/data/jurcic-002-121030_224347_0003937_0004088.wav
+1.051019093905939	The J restaurant.	Vitamínu C.	data/VYSTADIAL-ST-2012-10-02--15-50-54-B-0124.02-0125.83.wav	../data/data_voip_en/data/jurcic-018-130722_232420_0012388_0012518.wav
+1.0505083301563578	Cafe Food	čaj bílej	data/VYSTADIAL-ST-2012-08-16--20-37-22-B-0204.08-0206.13.wav	../data/data_voip_en/data/jurcic-001-121018_201948_0001935_0002098.wav
+1.0504526467596698	Any food is fine.	Jídlo, ano, všechno skvěle.	data/VYSTADIAL-ST-2012-10-17--18-27-38-A-0872.22-0874.13.wav	../data/data_voip_en/data/jurcic-002-130716_025623_0002050_0002212.wav
+1.0502303921913974	Hang on Curt	Zavěšuje honem kurt na stěnu.	data/all-2012-06-08-11-17-43.545468.recorded-0110.15-0112.49.wav	../data/data_voip_en/data/jurcic-006-121030_182856_0005938_0006210.wav
+1.0502025026656299	As fun, as this is I'm just going to stop you there give me the phone number.	Ale ne, to je divný, protože já jsem měl to volání tady z toho čísla a tobě tobě to napsalo moje číslo.	data/VYSTADIAL-ST-2012-05-07--22-26-47-A-1175.28-1181.34.wav	../data/data_voip_en/data/jurcic-022-121015_110437_0013014_0013545.wav
+1.0501476997367987	Yes, Chinese food do they have take away.	Jo, jo, jo, tam jsou takový čínský znaky.	data/VYSTADIAL-ST-2012-05-18--19-22-02-A-0132.26-0137.45.wav	../data/data_voip_en/data/jurcic-011-120926_022541_0010962_0011200.wav
+1.049883689597242	Like in the	Tak jako do.	data/VYSTADIAL-ST-2012-06-14--18-44-23-B-0550.19-0552.00.wav	../data/data_voip_en/data/jurcic-003-121019_001913_0003906_0004021.wav
+1.0497881612102862	OK - Goodbye good bye goodbye	ahoj a vopě jeď ahoj ahoj	data/VYSTADIAL-ST-2012-08-25--12-28-05-B-0261.03-9999.00.wav	../data/data_voip_en/data/jurcic-020-130705_183643_0014876_0015044.wav
+1.0496721036816163	And just out of curiosity do they allow children.	Leč skrze pouhé zvyky toto objevit nelze.	data/all-2012-06-22-12-23-33.246377.recorded-0440.61-0443.42.wav	../data/data_voip_en/data/jurcic-006-130704_143523_0007142_0007425.wav
+1.0496381990021426	That information's necessary.	Tady je hromada zpráv, který třeba.	data/vad-2013-06-20-10-54-55.361584.wav	../data/data_voip_en/data/jurcic-006-121029_142606_0004945_0005161.wav
+1.0495742091977753	With Internet	Na internetu.	data/VYSTADIAL-ST-2012-10-19--11-25-45-A-0401.15-0402.15.wav	../data/data_voip_en/data/jurcic-002-120912_211446_0002333_0002533.wav
+1.04937308864692	All right?	Tak fajn.	data/VYSTADIAL-ST-2012-05-07--22-26-47-A-0701.26-0702.58.wav	../data/data_voip_en/data/jurcic-012-130713_233003_0012044_0012143.wav
+1.049099888674201	No that is not correct.	To neni pravda.	data/VYSTADIAL-ST-2012-09-03--20-34-46-A-0526.78-0529.09.wav	../data/data_voip_en/data/jurcic-006-121014_231423_0009441_0009682.wav
+1.0490725288736906	What food do they serve?	Tak co užs je nakrmila?	data/VYSTADIAL-ST-2012-06-05--14-50-35-A-0073.71-0075.85.wav	../data/data_voip_en/data/jurcic-006-121007_164333_0008876_0009037.wav
+1.0488942334940654	A free one.	Možnost jedna.	data/vad-2013-06-29-14-07-33.934020.wav	../data/data_voip_en/data/jurcic-003-120916_023720_0001710_0001795.wav
+1.0487911495041802	So We're kind of looking for something that would work for us.	Já jsem my jsme si takhle, my jsme si mysleli, že bychom přijeli až.	data/VYSTADIAL-ST-2012-05-11--19-05-25-B-0139.48-0143.04.wav	../data/data_voip_en/data/jurcic-003-121008_203312_0004184_0004458.wav
+1.0483287093718856	That:	Následující:	data/vad-2013-07-11-11-20-27.745629.wav	../data/data_voip_en/data/jurcic-008-121029_151354_0007967_0008052.wav
+1.0483198737276131	What's	Copak je.	data/VYSTADIAL-ST-2012-05-13--15-20-30-A-0103.23-0104.23.wav	../data/data_voip_en/data/jurcic-003-121017_201929_0006681_0006754.wav
+1.0482324314704732	Any others?	Nebo v jinym?	data/VYSTADIAL-ST-2012-08-15--13-58-18-B-0671.18-0672.90.wav	../data/data_voip_en/data/jurcic-004-120923_170603_0005457_0005554.wav
+1.0479904724412608	I have the phone number and price of the venue.	Vim číslo objednávky, vim číslo vim jméno.	data/VYSTADIAL-ST-2012-08-13--09-25-04-B-0725.52-0728.07.wav	../data/data_voip_en/data/jurcic-006-120930_013210_0003923_0004262.wav
+1.0479845489577047	Central	Centra.	data/vad-2013-06-27-09-33-55.486125.wav	../data/data_voip_en/data/jurcic-002-120913_165127_0003466_0003593.wav
+1.047829710773124	No thank you.	Ne, děkuji.	data/vad-2013-09-28-08-03-47.793793.wav	../data/data_voip_en/data/jurcic-004-120930_070055_0005995_0006076.wav
+1.0478184821446395	Yes, a greek.	Včera z němčiny.	data/VYSTADIAL-ST-2012-05-30--10-40-28-B-0109.85-0113.56.wav	../data/data_voip_en/data/jurcic-004-130715_221559_0002546_0002863.wav
+1.0474202173979859	No, I am not.	No ale nejsem.	data/VYSTADIAL-ST-2012-05-28--16-18-54-B-0618.48-0620.48.wav	../data/data_voip_en/data/jurcic-002-130711_014900_0002771_0002901.wav
+1.0473167531121552	Any any any any.	Někde u zlína.	data/VYSTADIAL-ST-2012-08-13--22-00-19-A-0253.59-0255.37.wav	../data/data_voip_en/data/jurcic-004-130702_011745_0003949_0004194.wav
+1.0471115661569015	That's Great	To je úžasný.	data/VYSTADIAL-ST-2012-08-17--19-40-24-B-0630.10-0631.54.wav	../data/data_voip_en/data/jurcic-002-121013_081612_0000399_0000483.wav
+1.046910069264119	Phone number and	Vvod toho a...	data/VYSTADIAL-ST-2012-05-17--20-26-15-A-0439.21-0440.07.wav	../data/data_voip_en/data/jurcic-006-121015_002454_0005176_0005327.wav
+1.0468898384409768	You could buy three.	No, ještě zapsat asi tři.	data/VYSTADIAL-ST-2012-05-24--21-28-32-A-0093.58-0096.14.wav	../data/data_voip_en/data/jurcic-004-130708_153500_0001655_0001967.wav
+1.0467972363969558	New location	Nové Butovice	data/vad-2013-06-10-18-55-04.308530.wav	../data/data_voip_en/data/jurcic-008-121012_202949_0007353_0007503.wav
+1.0465354568869145	OK, great and what type of food is it.	Super a jaký tam je počasí.	data/VYSTADIAL-ST-2012-08-13--13-52-19-B-0089.41-0091.26.wav	../data/data_voip_en/data/jurcic-007-130716_024112_0009470_0009704.wav
+1.0464654802752107	I know They're great do they have take away.	No tak vim, že to je vysekané ty starý.	data/VYSTADIAL-ST-2012-10-17--16-11-30-A-0398.73-0401.35.wav	../data/data_voip_en/data/jurcic-018-120926_022654_0018226_0018582.wav
+1.0464079363611638	Next	Další.	data/vad-2013-06-07-13-16-14.749804.wav	../data/data_voip_en/data/jurcic-003-130708_195601_0005885_0005966.wav
+1.0462525867858454	Hi,	Halo.	data/VYSTADIAL-ST-2012-05-07--22-26-47-A-0069.44-0071.02.wav	../data/data_voip_en/data/jurcic-001-130701_205902_0000837_0000896.wav
+1.0459437977109414	Not matter.	To nevadí.	data/VYSTADIAL-ST-2012-08-08--16-26-32-B-0651.15-0652.31.wav	../data/data_voip_en/data/jurcic-005-120926_021024_0002547_0002634.wav
+1.0457933724883992	An expensive price range.	Mnoho z nich cenově narůstá.	data/all-2012-10-29-22-25-11.638170.recorded-0260.75-0263.78.wav	../data/data_voip_en/data/jurcic-009-121030_182052_0008476_0008730.wav
+1.0456503874078578	Repeat that please.	Zopakujte to prosím.	data/vad-2013-07-24-16-36-08.761232.wav	../data/data_voip_en/data/jurcic-006-120925_020334_0004168_0004284.wav
+1.0455562863022154	Does Polonia have a TV?	Česká republika má exportní strategii.	data/all-2012-06-20-09-01-01.105590.recorded-0305.83-0308.88.wav	../data/data_voip_en/data/jurcic-007-130703_153734_0009872_0010051.wav
+1.0454175281727776	No price range preference.	Žádné zvláštní prémie přitom klub nevypsal.	data/all-2012-07-13-11-39-52.122509.recorded-0105.32-0108.45.wav	../data/data_voip_en/data/jurcic-002-121003_185611_0003468_0003750.wav
+1.045234293963417	Other options	Nějaké další možnosti.	data/vad-2013-06-13-21-09-06.819942.wav	../data/data_voip_en/data/jurcic-003-120913_060551_0004439_0004579.wav
+1.0450778167395138	The area is kingshedges.	Je zamračene kaluže sú.	data/VYSTADIAL-ST-2012-10-13--07-43-26-B-0508.01-0510.01.wav	../data/data_voip_en/data/jurcic-005-121019_001447_0002755_0002985.wav
+1.0449495306760985	No, just American.	Ne, ten normální.	data/VYSTADIAL-ST-2012-09-27--16-13-14-B-0121.65-0124.12.wav	../data/data_voip_en/data/jurcic-005-121019_115551_0004356_0004522.wav
+1.044945111525729	I want.	Chci.	data/vad-2013-06-26-23-21-43.970883.wav	../data/data_voip_en/data/jurcic-002-121002_203659_0000498_0000586.wav
+1.0449425542943538	You can give me any.	Takže ty bys mohl mít třeba na ňáký.	data/VYSTADIAL-ST-2012-06-05--10-44-23-B-0461.91-0464.09.wav	../data/data_voip_en/data/jurcic-005-121001_040031_0005747_0005829.wav
+1.044852073497646	Anything else I should know about the place.	Nevěděla bych stejně o ničem.	data/all-2012-06-21-17-03-01.574484.recorded-0277.98-0280.08.wav	../data/data_voip_en/data/jurcic-005-120916_033007_0007516_0007687.wav
+1.044752946468999	It serves food.	Jídlo budu mít.	data/VYSTADIAL-ST-2012-09-06--08-15-37-B-0135.81-0137.06.wav	../data/data_voip_en/data/jurcic-004-121002_152601_0003721_0003914.wav
+1.0447424396784717	I was wondering are children allowed.	Že jak jsme byli děcka, že nám to dávali?	data/VYSTADIAL-ST-2012-05-24--21-28-32-B-0158.98-0161.03.wav	../data/data_voip_en/data/jurcic-006-120926_220206_0007872_0008108.wav
+1.0446536683121137	A rest in Barnwell	Kor v Berně.	data/VYSTADIAL-ST-2012-09-17--21-13-19-A-0377.25-0378.81.wav	../data/data_voip_en/data/jurcic-005-121018_095442_0001740_0001970.wav
+1.0446497088906994	There is no entry fee.	No to jde i bez kreditu.	data/VYSTADIAL-ST-2012-08-13--22-00-19-A-0769.83-0771.77.wav	../data/data_voip_en/data/jurcic-004-120925_194412_0006912_0007040.wav
+1.0446369101462818	Try Girtons.	Na Prosek.	data/vad-2013-07-31-10-38-51.506673.wav	../data/data_voip_en/data/jurcic-006-121010_234458_0005086_0005219.wav
+1.043974964083879	Not really no.	Fakt ne jo.	data/VYSTADIAL-ST-2012-09-03--20-34-46-B-0763.72-0764.82.wav	../data/data_voip_en/data/jurcic-006-130711_174010_0003379_0003507.wav
+1.0431907764600612	Yeah, what?	Cože, cože?	data/VYSTADIAL-ST-2012-05-07--22-26-47-A-0356.01-0357.40.wav	../data/data_voip_en/data/jurcic-011-121013_221311_0006540_0006625.wav
+1.0431547463572304	None of the above.	A to jsem přitom nahoře.	data/VYSTADIAL-ST-2012-06-01--15-36-49-A-0202.31-0203.54.wav	../data/data_voip_en/data/jurcic-002-120922_153056_0003830_0003981.wav
+1.0431066960513786	Got that.	Ono to.	data/VYSTADIAL-ST-2012-10-13--07-43-26-A-0133.04-0133.80.wav	../data/data_voip_en/data/jurcic-007-121015_105602_0009743_0009821.wav
+1.04269648528058	Do they allow children?	Vy byste od nich chtěla děti?	data/all-2012-06-10-12-56-57.249346.recorded-0072.94-0074.69.wav	../data/data_voip_en/data/jurcic-002-121019_175017_0003340_0003511.wav
+1.042682313322269	Yes, thank you.	Jo, děkuju.	data/VYSTADIAL-ST-2012-08-13--21-11-19-B-0099.05-0100.83.wav	../data/data_voip_en/data/jurcic-006-120926_001317_0004521_0004637.wav
+1.0426560770066273	That fine.	To je dobře.	data/VYSTADIAL-ST-2012-05-14--16-52-56-B-0064.19-0065.18.wav	../data/data_voip_en/data/jurcic-002-130722_033041_0003506_0003704.wav
+1.0426535346679722	Hello	Haló.	data/VYSTADIAL-ST-2012-05-17--20-37-10-B-0056.82-0057.66.wav	../data/data_voip_en/data/jurcic-001-121011_202312_0000789_0000944.wav
+1.0425548332634362	Yes.	Ano.	data/VYSTADIAL-ST-2012-05-07--22-26-47-B-0699.54-0700.63.wav	../data/data_voip_en/data/jurcic-001-121002_203656_0000198_0000325.wav
+1.0420411416368234	It doesn't matter, but it should be in the barnwell area.	To je vlastně jedno, kudy se jede až na to, že na tom Barandově je to furt město, no ale.	data/VYSTADIAL-ST-2012-06-02--19-11-14-A-0191.26-0194.67.wav	../data/data_voip_en/data/jurcic-004-121013_071611_0002987_0003349.wav
+1.0419768210809401	I'm willing to travel	No, on pocestoval.	data/VYSTADIAL-ST-2012-08-13--18-19-24-A-0535.83-0537.36.wav	../data/data_voip_en/data/jurcic-003-120925_033128_0002926_0003040.wav
+1.0419316083350045	Let's Try Primavera	Myslim, že na jaro.	data/VYSTADIAL-ST-2012-06-19--07-36-54-A-0301.90-0303.84.wav	../data/data_voip_en/data/jurcic-003-121010_233943_0004580_0004730.wav
+1.041722287946651	I do not I do not care.	Ne mě to neštve.	data/VYSTADIAL-ST-2012-08-15--13-58-18-B-0632.34-0634.02.wav	../data/data_voip_en/data/jurcic-005-121026_172539_0003101_0003347.wav
+1.0416055637111368	A traditional restaurant.	Cirkusový festival.	data/VYSTADIAL-ST-2012-06-06--09-23-00-B-0453.41-0454.91.wav	../data/data_voip_en/data/jurcic-002-130702_024738_0003353_0003523.wav
+1.0415532019625136	Not Greek	ňáký pražský	data/VYSTADIAL-ST-2012-05-12--11-14-12-B-0181.87-0183.63.wav	../data/data_voip_en/data/jurcic-005-120912_151357_0005233_0005336.wav
+1.0414065322934094	So I'm making twenty cents in what twenty seconds?	Tak kdo potřebuje dvacet minut?	data/VYSTADIAL-ST-2012-05-07--22-26-47-B-1295.05-1297.39.wav	../data/data_voip_en/data/jurcic-001-121015_004220_0000230_0000652.wav
+1.041146840618443	And with the phone number.	A de to zrovna vo to číslo.	data/VYSTADIAL-ST-2012-06-10--10-59-26-B-0136.53-0138.38.wav	../data/data_voip_en/data/jurcic-003-130711_140130_0005411_0005561.wav
+1.0403275158652738	A television and allows children.	Televize dává i další příležitosti k podnikání.	data/all-2012-08-07-10-32-07.550099.recorded-0463.00-0466.37.wav	../data/data_voip_en/data/jurcic-003-121011_002009_0002365_0002586.wav
+1.0403274696779514	Drink	Vypil jsem.	data/VYSTADIAL-ST-2012-05-11--20-32-03-B-0208.09-0209.65.wav	../data/data_voip_en/data/jurcic-011-130722_034214_0006743_0006806.wav
+1.0402803348857372	noise	Šum.	data/vad-2013-06-27-11-28-09.814128.wav	../data/data_voip_en/data/jurcic-001-130626_205114_0000124_0000201.wav
+1.0400530412426163	Chele cheap.	Divoká Šárka.	data/vad-2013-07-12-01-38-08.378042.wav	../data/data_voip_en/data/jurcic-003-130712_161847_0002980_0005253.wav
+1.0398250601114374	And give me the telephone number.	A tak tak jsem jí poprosila, aby mi dala telefonní číslo.	data/VYSTADIAL-ST-2012-05-14--16-52-56-A-0139.33-0142.50.wav	../data/data_voip_en/data/jurcic-003-130719_093419_0004875_0005054.wav
+1.039482458147697	A right could you also tell me the area of the restaurant where it is located.	A taky si tam můžeš vybrat masový, kde se to máčí do vývaru a jako to tam dycky povaříš.	data/VYSTADIAL-ST-2012-09-21--00-57-02-B-0122.17-0127.20.wav	../data/data_voip_en/data/jurcic-006-121024_130146_0007784_0008336.wav
+1.039352455793028	It goes by the code at the end not the restaurant.	Ten definitivně zmizel koncem války.	data/all-2012-06-20-08-24-28.509042.recorded-0546.38-0549.04.wav	../data/data_voip_en/data/jurcic-001-120930_061521_0000088_0000365.wav
+1.0392566785225756	Where is?	Kde jsi?	data/VYSTADIAL-ST-2012-06-10--10-59-26-A-0122.12-0124.09.wav	../data/data_voip_en/data/jurcic-011-120926_173728_0015319_0015472.wav
+1.0391221298333855	Chinese take away restaurants.	Čínští politici jedli třídní nepřátelé.	data/all-2012-06-22-14-37-57.002827.recorded-0574.31-0576.90.wav	../data/data_voip_en/data/jurcic-002-130705_182858_0000749_0001024.wav
+1.0385918817255844	and I'D, like a post code.	A a že by nás jako vzali na šifrovačku.	data/VYSTADIAL-ST-2012-05-29--21-10-07-A-0087.13-0090.19.wav	../data/data_voip_en/data/jurcic-010-130722_174558_0006778_0006928.wav
+1.0385091084290323	A cheap.	Ze zlína.	data/VYSTADIAL-ST-2012-08-17--19-40-24-B-0551.38-0554.10.wav	../data/data_voip_en/data/jurcic-003-121003_162056_0001535_0001645.wav
+1.038381917863722	Moderate is fine.	A mušličky, ty jsou teprv hezký.	data/VYSTADIAL-ST-2012-05-17--20-37-10-A-0442.11-0444.64.wav	../data/data_voip_en/data/jurcic-010-120930_060338_0005172_0005383.wav
+1.0383115314662148	OK and do you have a post code for that establishment.	No a máš je tam jakko přímo naházené v té složce obrázky, jo?	data/VYSTADIAL-ST-2012-05-16--19-57-24-A-0230.05-0233.16.wav	../data/data_voip_en/data/jurcic-013-130721_222233_0016926_0017256.wav
+1.038309418590831	Thanks bye.	Díky čau.	data/vad-2013-10-02-09-19-54.463756.wav	../data/data_voip_en/data/jurcic-004-130723_223142_0005729_0005874.wav
+1.0381797031169386	Gourmet burger is fine can I have the	Jo pro broskve, no to se budeš mít, viď ňam ňam.	data/VYSTADIAL-ST-2012-08-06--15-09-29-B-0182.08-0186.21.wav	../data/data_voip_en/data/jurcic-007-130722_021912_0009521_0009775.wav
+1.03786411670387	Spell it.	Psal.	data/VYSTADIAL-ST-2012-10-18--17-35-29-B-0101.64-0102.39.wav	../data/data_voip_en/data/jurcic-007-121020_193737_0006932_0007009.wav
+1.0374981061031996	Please repeat the address.	Prosím zopakovat poslední větu.	data/vad-2013-09-29-18-57-46.099635.wav	../data/data_voip_en/data/jurcic-005-120920_175846_0005353_0005501.wav
+1.037357721791077	Thank you That's All	Je to vše děkuji.	data/vad-2013-09-30-14-53-47.369509.wav	../data/data_voip_en/data/jurcic-006-121029_141814_0008292_0008434.wav
+1.037293352628978	Just free.	Jo zadarmo.	data/VYSTADIAL-ST-2012-05-08--17-02-54-B-0104.75-0105.95.wav	../data/data_voip_en/data/jurcic-003-130717_212716_0003603_0003716.wav
+1.0372453948341185	That has a moderate price range.	Za výrazný rys ekonomického vývoje považuje stabilizaci cen.	data/all-2012-08-17-23-45-59.036317.recorded-0395.67-0400.17.wav	../data/data_voip_en/data/jurcic-002-130706_194336_0002402_0002603.wav
+1.037179768652974	Can Hear What's Being said?	No jo, slyšíš to.	data/VYSTADIAL-ST-2012-05-16--08-44-15-A-0471.60-0473.11.wav	../data/data_voip_en/data/jurcic-001-130701_211423_0000153_0000392.wav
+1.0370303484599361	Doesn't matter it doesn't matter.	To je jedno, to je jedno.	data/VYSTADIAL-ST-2012-05-11--18-51-58-B-0188.61-0190.64.wav	../data/data_voip_en/data/jurcic-007-130701_231431_0005368_0005570.wav
+1.0368732565583858	OK THE OTHER ONE	K tomu druhýmu.	data/VYSTADIAL-ST-2012-08-06--16-05-50-A-0485.37-0487.04.wav	../data/data_voip_en/data/jurcic-003-121001_155454_0005209_0005450.wav
+1.0368544276434726	and is it a cheap, restaurant or or expensive.	To je ňáké, časově omezený nebo jak to funguje.	data/VYSTADIAL-ST-2012-05-12--17-05-32-B-0091.29-0093.20.wav	../data/data_voip_en/data/jurcic-004-120925_020146_0005535_0005890.wav
+1.036753509500451	I don't care about that.	Ale mě to ňák nezajímá.	data/VYSTADIAL-ST-2012-08-13--22-00-19-B-0411.85-0413.55.wav	../data/data_voip_en/data/jurcic-002-121005_015507_0003451_0003602.wav
+1.0366071277145215	No goodbye.	To nic na shledanou.	data/vad-2013-07-12-01-33-53.641318.wav	../data/data_voip_en/data/jurcic-007-121006_173005_0006210_0006352.wav
+1.036430699474769	Am I allowed to bring children.	Ňáké a přinesla mě.	data/VYSTADIAL-ST-2012-05-24--21-28-32-B-0269.00-0271.53.wav	../data/data_voip_en/data/jurcic-008-130722_034726_0009004_0009178.wav
+1.036337041548526	Put this on a smaller plate there's not that much left I don't want it taking up that much room.	Né, hele to čerpadlo, bere maličko, to jako neni potřeba takle zas tak šetřit.	data/VYSTADIAL-ST-2012-05-20--07-17-21-B-0230.15-0236.25.wav	../data/data_voip_en/data/jurcic-001-130716_175955_0000184_0000486.wav
+1.0361511718597352	No That'll do it.	Jo, tak to nestihnete.	data/VYSTADIAL-ST-2012-08-13--21-11-19-B-0407.19-0409.32.wav	../data/data_voip_en/data/jurcic-005-130723_204122_0006986_0007242.wav
+1.0359913203788917	Great can you tell me the phone number to that place.	No jasně tam zavoláš na to číslo.	data/VYSTADIAL-ST-2012-05-12--11-14-12-A-0186.04-0188.41.wav	../data/data_voip_en/data/jurcic-002-121022_123136_0003613_0004031.wav
+1.0359273425586075	I need a moderate price range.	Potřeboval bych do toho napasovat ňákej poptávkovej model.	data/VYSTADIAL-ST-2012-05-17--20-26-15-B-0099.36-0102.79.wav	../data/data_voip_en/data/jurcic-005-121003_195240_0007065_0007333.wav
+1.0358762579578942	All areas	Podrobnosti	data/vad-2013-09-04-14-55-48.852566.wav	../data/data_voip_en/data/jurcic-003-120916_051950_0004656_0004791.wav
+1.0358489851149173	The price of the menu.	Za poplatek večeře nebo podle jídelního lístku.	data/all-2012-10-18-21-30-22.551001.recorded-0063.17-0067.22.wav	../data/data_voip_en/data/jurcic-010-121010_234821_0010010_0010161.wav
+1.0354214818570522	Thank you.	Tak děkuju.	data/vad-2013-06-17-19-04-50.082387.wav	../data/data_voip_en/data/jurcic-001-121010_222556_0000968_0001334.wav
+1.0353286800057315	Let me see mother fucker.	S tou maminkou.	data/VYSTADIAL-ST-2012-05-25--09-13-22-B-0420.45-0422.51.wav	../data/data_voip_en/data/jurcic-011-121015_110335_0007145_0007322.wav
+1.0352088644644557	A area of the venue.	Je to zahrada Senátu.	data/VYSTADIAL-ST-2012-05-07--22-26-47-A-0216.02-0217.88.wav	../data/data_voip_en/data/jurcic-007-120929_193603_0005654_0006007.wav
+1.0350874091297477	May I have its area.	Už má svůj pokoj.	data/VYSTADIAL-ST-2012-09-03--20-34-46-B-0475.74-0477.70.wav	../data/data_voip_en/data/jurcic-008-120926_194730_0008819_0008986.wav
+1.0349356622201666	Give me another one.	Ještě jedno.	data/vad-2013-06-18-17-12-58.489653.wav	../data/data_voip_en/data/jurcic-006-121024_112136_0006661_0006794.wav
+1.0349129593810444	Town	Vilda	data/VYSTADIAL-ST-2012-06-10--08-46-53-A-0139.97-0141.25.wav	../data/data_voip_en/data/jurcic-009-130703_153748_0011414_0011499.wav
+1.0348194053768365	Vegetarian	Štěpánská	data/vad-2013-10-14-17-16-20.889975.wav	../data/data_voip_en/data/jurcic-001-130701_132550_0001930_0002069.wav
+1.0347569728578316	Yeah, I bet it is I bet. It is:	Jo, to je to já, už to chápu, to je to anči, tys to.	data/VYSTADIAL-ST-2012-05-28--16-18-54-B-0090.68-0093.89.wav	../data/data_voip_en/data/jurcic-012-121015_110344_0007889_0008210.wav
+1.0347079725787303	Go back to the beginning.	To byl ovšem jen začátek.	data/all-2012-06-20-08-24-28.509042.recorded-0460.08-0462.89.wav	../data/data_voip_en/data/jurcic-011-130720_195016_0014233_0014388.wav
+1.0346558010967075	An Italian restaurant and the expensive price range.	Dodávky jsou plynulé a smluvní cena je příznivá.	data/all-2012-06-16-21-50-34.675734.recorded-0142.62-0146.30.wav	../data/data_voip_en/data/jurcic-003-130716_014728_0001810_0002132.wav
+1.034607961324484	and a post code.	A stočenej provázek.	data/VYSTADIAL-ST-2012-05-17--20-37-10-A-0444.64-0446.18.wav	../data/data_voip_en/data/jurcic-011-130722_174606_0007608_0007732.wav
+1.0344457582392816	Would you say That's in the expensive price range?	Myslíte si, že text je ve spodní lajně?	data/VYSTADIAL-ST-2012-05-12--19-31-57-B-0164.05-0166.39.wav	../data/data_voip_en/data/jurcic-011-130715_090156_0011365_0011630.wav
+1.034356189570479	Japanese restaurant moderately priced i Doesn't care about the area.	Takový kostičkovaný zelený, vůbec se mi nelíbí.	data/VYSTADIAL-ST-2012-09-16--19-56-21-B-0418.81-0421.71.wav	../data/data_voip_en/data/jurcic-001-130712_162546_0002023_0002594.wav
+1.0342996759743952	Checheap pub with T / V	Ípé Pavlova: Aj pí.	data/vad-2013-10-03-01-27-25.005091.wav	../data/data_voip_en/data/jurcic-001-130723_022351_0001871_0002169.wav
+1.0342643647025462	The museum	Muzea.	data/vad-2013-06-27-11-41-46.441815.wav	../data/data_voip_en/data/jurcic-005-121011_152700_0007448_0007566.wav
+1.0341957425477948	Restaurant	Krčská.	data/vad-2013-09-28-14-02-42.253837.wav	../data/data_voip_en/data/jurcic-001-120912_233600_0001874_0002056.wav
+1.0339551166792562	Williams Park	Karlovo Karlovo náměstí	data/vad-2013-07-01-17-06-22.279953.wav	../data/data_voip_en/data/jurcic-006-130711_231023_0008249_0008398.wav
+1.0339084261770692	Yes, no expensive price range.	Ano, ale velký teplo neni.	data/VYSTADIAL-ST-2012-10-17--18-27-38-B-0891.18-0892.93.wav	../data/data_voip_en/data/jurcic-002-121026_200531_0003456_0003809.wav
+1.0338382266173034	It does it allow children.	Pro děti je životní jistotou.	data/all-2012-06-21-17-03-01.574484.recorded-0186.52-0188.67.wav	../data/data_voip_en/data/jurcic-002-121019_113404_0003560_0003710.wav
+1.0337370054738797	Lutl	Aleš	data/VYSTADIAL-ST-2012-10-18--17-35-29-A-0107.04-0107.73.wav	../data/data_voip_en/data/jurcic-004-130702_164315_0006035_0006197.wav
+1.0336818233560043	Are kids allowed?	dete na volby?	data/VYSTADIAL-ST-2012-10-13--06-30-25-B-0078.16-0079.38.wav	../data/data_voip_en/data/jurcic-008-120926_034158_0006886_0007051.wav
+1.0336091696515004	King hedges	Zdar Jindřichu	data/VYSTADIAL-ST-2012-05-08--11-08-08-B-0092.53-0093.79.wav	../data/data_voip_en/data/jurcic-004-130708_153253_0002291_0002450.wav
+1.033599071465615	And where is it?	A kde seš?	data/VYSTADIAL-ST-2012-10-18--17-35-29-B-0134.01-0135.17.wav	../data/data_voip_en/data/jurcic-002-120923_171515_0003466_0003577.wav
+1.0334913499328553	Goodbye Thank You Goodbye	ahoj ahoj říkám ahoj	data/VYSTADIAL-ST-2012-09-24--08-32-21-A-0390.76-0393.04.wav	../data/data_voip_en/data/jurcic-005-121022_122602_0006831_0007033.wav
+1.033309513240882	Don't care about the area.	No máš to tam neboj.	data/VYSTADIAL-ST-2012-09-24--18-53-31-A-0853.45-9999.00.wav	../data/data_voip_en/data/jurcic-003-121012_213311_0001349_0001506.wav
+1.033254501285425	What's the address and what	Ty jo a čeho.	data/VYSTADIAL-ST-2012-10-18--17-35-29-A-0222.05-0223.49.wav	../data/data_voip_en/data/jurcic-004-120912_162531_0003151_0003276.wav
+1.0330765217908993	The manor.	A Lemona.	data/VYSTADIAL-ST-2012-08-17--17-12-05-B-0700.31-0702.50.wav	../data/data_voip_en/data/jurcic-006-130701_232137_0004006_0004090.wav
+1.0329563006545268	Try the girton.	Ukaž mu ten mejl.	data/VYSTADIAL-ST-2012-09-24--18-53-31-A-0183.09-0184.53.wav	../data/data_voip_en/data/jurcic-005-121010_234452_0004438_0004563.wav
+1.032879181785451	The area.	Náměstí.	data/vad-2013-09-28-11-38-49.818354.wav	../data/data_voip_en/data/jurcic-002-121019_215750_0003275_0003394.wav
+1.03271300174452	In Castlehill area.	Teda u u Kauflandu.	data/VYSTADIAL-ST-2012-06-10--08-46-53-A-0391.84-0393.34.wav	../data/data_voip_en/data/jurcic-010-130705_191330_0007723_0007883.wav
+1.032559123820403	What is address and price range?	Že to třídí a bude prát?	data/VYSTADIAL-ST-2012-06-18--17-26-23-B-0457.29-0459.21.wav	../data/data_voip_en/data/jurcic-002-121014_155346_0003611_0003878.wav
+1.0325431523607784	Nothing particular	Já nevím nic zvláštního.	data/VYSTADIAL-ST-2012-10-19--11-25-45-A-0182.57-0184.07.wav	../data/data_voip_en/data/jurcic-002-120930_202215_0003915_0004065.wav
+1.032527666256401	Any where?	A kam?	data/VYSTADIAL-ST-2012-05-17--20-37-10-B-0077.49-0078.39.wav	../data/data_voip_en/data/jurcic-002-130711_182250_0003485_0003563.wav
+1.032498213453065	You have a different restaurant.	Vy teď máte jiná pravidla.	data/all-2012-10-17-10-00-51.453562.recorded-0049.41-0051.35.wav	../data/data_voip_en/data/jurcic-006-121030_175854_0007671_0007845.wav
+1.0323894024971145	New	Nová.	data/vad-2013-06-26-23-21-44.929908.wav	../data/data_voip_en/data/jurcic-005-121006_185746_0003440_0003548.wav
+1.0323119244717271	Unsure	Domluvit.	data/VYSTADIAL-ST-2012-05-27--21-37-07-A-0142.43-0143.85.wav	../data/data_voip_en/data/jurcic-003-130729_012502_0002465_0002564.wav
+1.0320624324969712	The cheapest pub.	Nejlevnější cesta k univerzitnímu vzdělání.	data/all-2012-06-12-14-23-20.655944.recorded-0116.86-0119.96.wav	../data/data_voip_en/data/jurcic-002-120916_021511_0002300_0002492.wav
+1.032000240367526	Be gone now goodbye.	No tak už končíme ahoj.	data/VYSTADIAL-ST-2012-05-11--19-05-25-B-0466.62-0469.14.wav	../data/data_voip_en/data/jurcic-007-130723_225650_0007987_0008090.wav
+1.0319998014179348	I got that goodbye.	Už jsem se chtěl rozloučit.	data/vad-2013-09-29-10-47-36.161922.wav	../data/data_voip_en/data/jurcic-010-121015_105054_0010256_0010456.wav
+1.031868604912781	Restaurant restaurant	Matulinko Matulinko	data/VYSTADIAL-ST-2012-08-21--19-30-34-B-0286.17-0288.76.wav	../data/data_voip_en/data/jurcic-002-130712_161816_0001168_0002168.wav
+1.031852737561413	The Fleur	Na Floru.	data/vad-2013-06-27-09-36-37.510476.wav	../data/data_voip_en/data/jurcic-026-120925_184314_0023049_0023149.wav
+1.031751429955903	Any area I'D just like a free restaurant.	Co bysme tak chtěli jako tu knihovnu, já bych chtěla.	data/VYSTADIAL-ST-2012-06-07--19-10-36-B-0472.80-0475.27.wav	../data/data_voip_en/data/jurcic-005-130703_221644_0003817_0004148.wav
+1.0316859608474076	A restaurant with drinks and snacks only.	Potom jsme měli pudink s piškotama a s jahodama.	data/VYSTADIAL-ST-2012-08-15--13-58-18-A-0839.37-0842.62.wav	../data/data_voip_en/data/jurcic-002-130719_225527_0001049_0001374.wav
+1.0316764242826078	And finally the post code.	A třetí spojení teda.	data/vad-2013-09-29-10-54-07.502910.wav	../data/data_voip_en/data/jurcic-005-130711_190112_0007177_0007341.wav
+1.0316652411153349	A COSTRECE SHEPES	cirkulovat a holt	data/VYSTADIAL-ST-2012-05-20--07-17-21-A-0204.86-0206.13.wav	../data/data_voip_en/data/jurcic-001-120925_153322_0001959_0002073.wav
+1.031659266913617	Hi, I'm looking for	Hele, halo jsem tady.	data/VYSTADIAL-ST-2012-08-08--16-26-32-A-0073.91-0076.06.wav	../data/data_voip_en/data/jurcic-001-121003_235722_0002023_0002173.wav
+1.031493104355251	The new part of town.	Do nového náměstí.	data/vad-2013-07-08-17-37-16.659505.wav	../data/data_voip_en/data/jurcic-002-130714_163334_0003340_0003490.wav
+1.0314220746639906	Are there any other takeaway Chinese restaurants?	A ještě je tady ňáká francouzská bageta.	data/VYSTADIAL-ST-2012-08-10--19-54-17-B-0115.63-0118.63.wav	../data/data_voip_en/data/jurcic-003-130713_045532_0005847_0006194.wav
+1.0314135248181087	What about Jay House?	A co ty jakejs?	data/VYSTADIAL-ST-2012-08-27--22-51-10-A-0188.31-0190.09.wav	../data/data_voip_en/data/jurcic-008-121030_140602_0009408_0009558.wav
+1.0313900828102114	And can I get the price range.	Takže se může k daně stavit.	data/VYSTADIAL-ST-2012-09-26--18-27-44-A-0508.31-0510.62.wav	../data/data_voip_en/data/jurcic-004-130705_121809_0006542_0006771.wav
+1.031355473107763	Children are allowed.	Ty děti budou řezaný.	data/VYSTADIAL-ST-2012-08-17--17-12-05-B-0678.82-0680.79.wav	../data/data_voip_en/data/jurcic-008-130726_185402_0008319_0008473.wav
+1.031248474959534	Yes, can I have the address.	Jo, sluchátka bych mohl.	data/VYSTADIAL-ST-2012-09-21--00-57-02-B-0317.21-0319.70.wav	../data/data_voip_en/data/jurcic-003-130705_185125_0004177_0004412.wav
+1.0311707380301514	- expensive restaurant in rosemary area.	Na letiště v Ruzyni.	data/vad-2013-10-16-10-02-38.363311.wav	../data/data_voip_en/data/jurcic-001-121012_214544_0000744_0001048.wav
+1.0310407873634737	Could I have the area of the venue please?	Prosila bych ze stanice.	data/vad-2013-10-13-13-43-34.415462.wav	../data/data_voip_en/data/jurcic-005-121010_184349_0008116_0008336.wav
+1.0309554440509414	How would I get there?	No co bych tam dělal.	data/VYSTADIAL-ST-2012-05-07--22-26-47-A-0365.60-0367.41.wav	../data/data_voip_en/data/jurcic-009-120926_174415_0009353_0009504.wav
+1.0308977458107005	OK, what kind of food do they serve?	No, hele tak, jaký chceš to pečivo?	data/VYSTADIAL-ST-2012-08-10--19-54-17-B-0066.30-0069.33.wav	../data/data_voip_en/data/jurcic-015-130712_212306_0011693_0011940.wav
+1.0308625372465259	OK: What about another restaurant?	Jo a a co co co novýho?	data/VYSTADIAL-ST-2012-08-08--21-15-29-B-0073.67-0076.33.wav	../data/data_voip_en/data/jurcic-008-130716_030404_0006073_0006310.wav
+1.0308561420341342	Should have told me that the first time what's the address?	Já jsem fakt nevěděla, kde jako kde jsem ten prstýnek měla naposledy, jo.	data/VYSTADIAL-ST-2012-10-13--07-43-26-A-0292.87-0296.75.wav	../data/data_voip_en/data/jurcic-008-130705_191637_0007381_0007716.wav
+1.030824069865798	No particular part.	Ne jako jinak.	data/VYSTADIAL-ST-2012-10-20--15-12-53-B-0093.71-0095.68.wav	../data/data_voip_en/data/jurcic-002-121002_202914_0003673_0003823.wav
+1.0308156144141902	A. Cafe in the city center.	Tomáš ve středu státnice má.	data/VYSTADIAL-ST-2012-05-27--21-37-07-A-0343.64-0345.49.wav	../data/data_voip_en/data/jurcic-012-120930_232510_0006527_0006821.wav
+1.0307508959212324	Restaurant, cheap, girton area	Sázela Jsek, lichořeřišnici, akorát.	data/VYSTADIAL-ST-2012-05-13--21-39-12-B-0305.76-0310.00.wav	../data/data_voip_en/data/jurcic-001-120926_000408_0001889_0002302.wav
+1.030706697212158	Just a cheap one.	A ještě oříšky jedny.	data/VYSTADIAL-ST-2012-10-01--20-15-14-A-0336.73-0340.79.wav	../data/data_voip_en/data/jurcic-004-130707_222302_0003384_0003526.wav
+1.0306135824990017	Indian restaurant in Cherryhinton area	Kubánské náměstí na adresu Holešovice	data/vad-2013-06-24-22-34-12.064059.wav	../data/data_voip_en/data/jurcic-002-130721_051837_0002054_0002346.wav
+1.0305583299499492	of that restaurant	Z tý hlíny.	data/VYSTADIAL-ST-2012-05-17--20-37-10-A-0419.62-0421.50.wav	../data/data_voip_en/data/jurcic-004-130702_135657_0004125_0004242.wav
+1.030501546252547	Traditional food	Vědecký materiál	data/VYSTADIAL-ST-2012-06-20--14-25-55-A-0174.39-0176.39.wav	../data/data_voip_en/data/jurcic-003-121007_161159_0003688_0003795.wav
+1.0304814567062388	Either is fine.	A jinak je to dobrý.	data/VYSTADIAL-ST-2012-05-09--15-25-06-A-0339.72-0340.97.wav	../data/data_voip_en/data/jurcic-004-120912_164809_0003753_0003891.wav
+1.0303775305335632	No moderate.	Abys nenachladla.	data/VYSTADIAL-ST-2012-10-27--14-06-14-A-0521.98-0523.18.wav	../data/data_voip_en/data/jurcic-002-121007_164655_0003365_0003531.wav
+1.0303417917254205	Bye bye	ahoj ahoj	data/VYSTADIAL-ST-2012-05-16--19-57-24-B-0644.18-0645.94.wav	../data/data_voip_en/data/jurcic-004-121011_150854_0007242_0007333.wav
+1.0302741075767143	What's that honey	Nevím, co s tim broučku zlatej.	data/VYSTADIAL-ST-2012-10-02--15-50-54-B-0288.41-0290.78.wav	../data/data_voip_en/data/jurcic-003-130705_182919_0002054_0002144.wav
+1.0302028413456137	It Doesn't matter as long as it's in the expensive price range.	To jako nemá smysl, že jo brát velké, protože to je v ňáké jako podivné krabičce.	data/VYSTADIAL-ST-2012-09-21--00-57-02-A-0680.50-0685.03.wav	../data/data_voip_en/data/jurcic-003-120925_224643_0002918_0003368.wav
+1.0301708784317753	May I.	A i.	data/VYSTADIAL-ST-2012-05-17--20-37-10-A-0361.26-0361.82.wav	../data/data_voip_en/data/jurcic-005-130725_044158_0004862_0004944.wav
+1.030007480428608	Vegetarian restaurant	Hort Vinařství	data/VYSTADIAL-ST-2012-09-28--18-36-07-A-0867.15-0868.85.wav	../data/data_voip_en/data/jurcic-001-120912_230626_0001886_0002157.wav
+1.030007416518189	Thai food in the expensive price range.	Výroba jídla probíhá za přísných hygienických podmínek.	data/all-2012-06-20-08-24-28.509042.recorded-0364.59-0369.41.wav	../data/data_voip_en/data/jurcic-003-130722_023020_0002899_0003210.wav
+1.0295669999039228	Cherryhinton	Holešovice	data/vad-2013-09-29-18-02-31.316310.wav	../data/data_voip_en/data/jurcic-001-120914_161006_0002702_0002917.wav
+1.0294912940757954	Seafood Restaurant Don't Care about the price range.	Izetbegovič nežádá zrušení zbrojního embarga.	data/all-2012-06-30-15-43-20.953694.recorded-0175.47-0179.19.wav	../data/data_voip_en/data/jurcic-003-121011_013412_0002694_0003062.wav
+1.0294751011093408	Fusion restaurant cheap prices	Levnější ovocné šťávy v krabicích	data/all-2012-06-30-15-43-20.953694.recorded-0344.49-0347.42.wav	../data/data_voip_en/data/jurcic-001-130705_203106_0002000_0002351.wav
+1.0294439334025294	What other types of food?	Jak tolik sladkých jídel?	data/VYSTADIAL-ST-2012-08-15--13-58-18-B-0818.25-0820.94.wav	../data/data_voip_en/data/jurcic-007-130626_195145_0008509_0008664.wav
+1.0293304485267376	Type	Kamarádi	data/VYSTADIAL-ST-2012-08-17--17-12-05-B-0116.83-0118.36.wav	../data/data_voip_en/data/jurcic-007-121013_015016_0007266_0007354.wav
+1.0292801153055962	Yes, I'm, I'm, I'm looking for an expensive restaurant in the Castlehill area.	Jo, já jsem já jsem úplně to, já jsem úplně nadšeně objevila horu.	data/VYSTADIAL-ST-2012-05-28--16-18-54-A-0227.86-0231.97.wav	../data/data_voip_en/data/jurcic-005-121008_190012_0007078_0007631.wav
+1.029258776148184	And this is a restaurant.	A tam je jako jídelna.	data/VYSTADIAL-ST-2012-08-13--13-52-19-B-0107.85-0109.38.wav	../data/data_voip_en/data/jurcic-008-121023_184648_0009386_0009549.wav
+1.0292088977596872	The Lucky Star	Stanice Luka	data/vad-2013-09-28-08-22-06.850475.wav	../data/data_voip_en/data/jurcic-003-121023_060043_0002570_0002692.wav
+1.029194149383695	Any part of town is fine, but I'm hoping to find in the moderate price range.	Ale eště tam jsou ňáké procenta určitě do toho, ale myslim si, že když vybereš v bankomatu, tak máš hned lepší kurz.	data/VYSTADIAL-ST-2012-09-20--22-10-00-A-0348.34-0354.05.wav	../data/data_voip_en/data/jurcic-002-130705_123825_0003436_0003922.wav
+1.0291869863427354	Area of the venue	Sídliště na dědině	data/vad-2013-10-01-14-10-57.032560.wav	../data/data_voip_en/data/jurcic-003-120912_215729_0005294_0005446.wav
+1.0290330577389792	Hi, I'D like to find an American restaurant.	Dobrý den, chtěl bych jet na Anděla.	data/vad-2013-10-09-17-21-17.778575.wav	../data/data_voip_en/data/jurcic-001-130716_030726_0002055_0002336.wav
+1.0289472562714284	That will be all thank you goodbye.	To bude všechno na shledanou.	data/vad-2013-06-14-16-19-59.321080.wav	../data/data_voip_en/data/jurcic-004-120930_014103_0006653_0006903.wav
+1.0288673924896785	Right and are children allowed.	Takový nebo volitelný řekněme.	data/VYSTADIAL-ST-2012-10-20--15-12-53-A-0257.48-0260.29.wav	../data/data_voip_en/data/jurcic-003-130717_213354_0004685_0004875.wav
+1.0287238912637275	Can does it have take away?	Hej tak, ale to se může i odstoupit, ne?	data/VYSTADIAL-ST-2012-08-17--19-40-24-A-0433.88-0436.21.wav	../data/data_voip_en/data/jurcic-009-121006_173415_0010771_0011098.wav
+1.028636522963902	OK, then I don't care.	Jo, takže vám to nevadí.	data/VYSTADIAL-ST-2012-05-18--16-21-33-A-0162.39-0167.46.wav	../data/data_voip_en/data/jurcic-003-120925_022416_0004666_0004831.wav
+1.0284452186538113	- expensive, Mexuan or tex Mex restaurant.	To je místo soli, je ňákej tech tech.	data/VYSTADIAL-ST-2012-10-13--06-30-25-B-0245.64-0248.38.wav	../data/data_voip_en/data/jurcic-001-121018_214246_0001923_0002520.wav
+1.0284160696870799	Yup bet it does.	Jo babi a chceš.	data/VYSTADIAL-ST-2012-10-17--16-11-30-A-0645.13-0646.48.wav	../data/data_voip_en/data/jurcic-017-121015_110410_0010634_0010828.wav
+1.0283823768105045	What are is it in?	Jako na co to je?	data/VYSTADIAL-ST-2012-05-09--22-51-13-B-0213.37-0214.53.wav	../data/data_voip_en/data/jurcic-007-130701_141900_0006003_0006209.wav
+1.0283714563943935	Goodbye	Naschledanou.	data/vad-2013-09-30-11-34-41.042822.wav	../data/data_voip_en/data/jurcic-003-120913_174832_0002690_0002778.wav
+1.0282454549427498	In any area is fine.	A k něčemu to bylo dobrý.	data/VYSTADIAL-ST-2012-09-21--00-57-02-B-0424.84-0426.45.wav	../data/data_voip_en/data/jurcic-004-130716_024925_0002934_0003125.wav
+1.0282378250665418	How about	Takže jako.	data/VYSTADIAL-ST-2012-08-31--20-37-14-A-0138.33-0139.50.wav	../data/data_voip_en/data/jurcic-003-121019_112700_0004932_0005007.wav
+1.028125381020473	Repeat post code	Zopakovat poslední spojení.	data/vad-2013-06-23-12-33-33.474013.wav	../data/data_voip_en/data/jurcic-012-121010_235918_0014865_0015015.wav
+1.027830966996135	And do you happen to know the price of the menu?	A mysli si věci víš jako na svačinu.	data/VYSTADIAL-ST-2012-10-20--15-12-53-B-0616.06-0619.07.wav	../data/data_voip_en/data/jurcic-004-121022_122802_0006320_0006735.wav
+1.0276824563583877	That sounds fine.	To zní nechutně.	data/VYSTADIAL-ST-2012-08-16--20-37-22-A-0209.12-0211.30.wav	../data/data_voip_en/data/jurcic-004-130711_171713_0005982_0006087.wav
+1.0276368283729256	I'm: Not a big fan of burger king.	Velký úspěch si nesliboval premiér od Brazílie.	data/all-2012-06-30-15-43-20.953694.recorded-0164.24-0167.77.wav	../data/data_voip_en/data/jurcic-002-120912_160738_0003168_0003355.wav
+1.027625015147452	Addenbrooke	Pavelkova	data/vad-2013-07-12-01-24-41.801752.wav	../data/data_voip_en/data/jurcic-002-130712_162808_0003487_0003583.wav
+1.0276125303063839	Does it allow or does it have internet?	Ale Táňa to nikče nedovolila, že jo, nebo něco takovýho ne?	data/VYSTADIAL-ST-2012-08-17--17-12-05-A-0629.24-0632.14.wav	../data/data_voip_en/data/jurcic-003-120930_062807_0004576_0004876.wav
+1.0275807308257792	I'm not familiar with those places.	Jsem seděla prostě u těch.	data/VYSTADIAL-ST-2012-05-11--13-26-19-A-0345.20-0346.45.wav	../data/data_voip_en/data/jurcic-008-130724_162114_0004870_0005177.wav
+1.0274302593841416	Does the bakers pub have a television?	Polská prokuratura zastavila černé televizní vysílání.	data/all-2012-06-12-14-23-20.655944.recorded-0130.43-0135.11.wav	../data/data_voip_en/data/jurcic-003-121023_194404_0004715_0004960.wav
+1.027428452258088	Any place in the city.	Ty jsou jako ke městu.	data/VYSTADIAL-ST-2012-06-19--07-36-54-B-0279.86-0281.47.wav	../data/data_voip_en/data/jurcic-003-130715_231844_0005047_0005261.wav
+1.0273270407025	COSTERE shop in a cheap price range.	Obchodníci ponechávali kurz do dolaru v nízkých rozpětích.	data/all-2012-06-17-14-25-27.069288.recorded-0363.30-0368.18.wav	../data/data_voip_en/data/jurcic-001-130725_045243_0001963_0002418.wav
+1.027287823702624	Wrong no that's wrong.	Ne, to je špatně.	data/vad-2013-07-12-02-01-07.951036.wav	../data/data_voip_en/data/jurcic-006-120925_225543_0004889_0005085.wav
+1.0272845778261344	and the address there;	A a tam doma tam.	data/VYSTADIAL-ST-2012-05-30--14-07-48-A-0304.99-0306.80.wav	../data/data_voip_en/data/jurcic-004-121003_194912_0005554_0005705.wav
+1.0272260020681987	No are children allowed at the PUB.	Dítě se zbíhají u řiditele.	data/all-2012-06-18-16-57-24.116495.recorded-0350.95-0353.37.wav	../data/data_voip_en/data/jurcic-003-121004_200712_0004580_0004865.wav
+1.0271068404291421	God Damn seriously	Ježiší kriste ještě to.	data/VYSTADIAL-ST-2012-05-25--23-00-47-B-0177.73-0181.53.wav	../data/data_voip_en/data/jurcic-013-130705_184537_0007159_0007345.wav
+1.0269954159105437	In none of them, in particular.	No, ty vůbec v žádnym případě.	data/VYSTADIAL-ST-2012-08-17--17-12-05-A-0716.26-0718.48.wav	../data/data_voip_en/data/jurcic-008-120926_041002_0006128_0006278.wav
+1.0269238931363844	Bob	Bo.	data/VYSTADIAL-ST-2012-10-07--15-11-19-B-0307.91-0308.47.wav	../data/data_voip_en/data/jurcic-001-130701_133351_0001928_0001971.wav
+1.0268451129778227	and where	Jo kde.	data/VYSTADIAL-ST-2012-05-18--14-31-32-B-0341.21-0342.54.wav	../data/data_voip_en/data/jurcic-002-120923_035516_0003354_0003504.wav
+1.02674451997911	Chinese Chinese restaurant	Klaus k reformě v zemědělství	data/all-2012-06-16-21-50-34.675734.recorded-0344.00-0346.97.wav	../data/data_voip_en/data/jurcic-002-120925_184639_0001135_0001426.wav
+1.0265853704054402	What do they serve?	A a na co bys?	data/VYSTADIAL-ST-2012-10-02--15-50-54-B-0468.88-0470.22.wav	../data/data_voip_en/data/jurcic-005-130720_235242_0005540_0005758.wav
+1.0265186977360639	I'm looking for PUB in the Riverside Area and I care less about this pub requires children or not.	Zvládnout samotný Mimino do toho péče o domácnost a bez matyldy sem bohužel ne víc, no.	data/VYSTADIAL-ST-2012-09-29--17-40-26-B-0166.96-0172.05.wav	../data/data_voip_en/data/jurcic-001-120929_200955_0001920_0002822.wav
+1.02631387581989	or the James Bond dude	Pak rodina Martin Martin a Tomáš.	data/VYSTADIAL-ST-2012-09-24--08-32-21-B-0196.00-0199.65.wav	../data/data_voip_en/data/jurcic-001-120912_160458_0000310_0000501.wav
+1.0262403171809618	Alright thank you and can I have the type of food.	Děkuji, to je v pořádku, ale já chci možnost druhou.	data/vad-2013-06-20-22-02-59.890514.wav	../data/data_voip_en/data/jurcic-003-130716_025146_0004521_0004830.wav
+1.026233215565752	Any of them	Jedno z toho.	data/VYSTADIAL-ST-2012-05-11--13-26-19-A-0447.00-0448.90.wav	../data/data_voip_en/data/jurcic-005-121014_080239_0004833_0004946.wav
+1.0260869811779512	The address is:	A následující spojení:	data/vad-2013-10-02-15-43-00.101966.wav	../data/data_voip_en/data/jurcic-003-120930_233136_0005719_0005854.wav
+1.0259563514258758	I'd like in the barnwell area.	Chtěl bych jet na zastávku Barrandov.	data/vad-2013-07-11-18-28-15.281246.wav	../data/data_voip_en/data/jurcic-004-121019_002708_0002848_0003090.wav
+1.0259560434390322	How much	Jak tolik?	data/VYSTADIAL-ST-2012-08-15--13-58-18-B-0816.47-0818.25.wav	../data/data_voip_en/data/jurcic-003-120913_220853_0005078_0005203.wav
+1.0259267781647061	No any area.	Na letiště.	data/vad-2013-07-01-12-27-30.997615.wav	../data/data_voip_en/data/jurcic-002-121007_163925_0003441_0003601.wav
+1.0258927038324936	Shut the hell up and let me talk.	Dej mě ještě majdu, jestli se mnou chce mluvit.	data/VYSTADIAL-ST-2012-08-24--10-45-33-B-0578.08-0582.42.wav	../data/data_voip_en/data/jurcic-009-130706_053832_0003573_0003816.wav
+1.0258000710993558	It.	On.	data/VYSTADIAL-ST-2012-06-18--17-26-23-B-0173.28-0174.56.wav	../data/data_voip_en/data/jurcic-002-130701_211906_0003201_0003262.wav
+1.0257396771534721	I'm Sorry What	To mě moc mrzí.	data/VYSTADIAL-ST-2012-10-01--20-15-14-A-0140.86-0142.55.wav	../data/data_voip_en/data/jurcic-002-120930_070810_0003026_0003111.wav
+1.025622247826177	Something moderately priced.	Bylo to vůbec něco platno.	data/all-2012-06-23-20-43-19.701789.recorded-0082.42-0084.61.wav	../data/data_voip_en/data/jurcic-002-121011_014332_0003740_0003904.wav
+1.0255264451568311	Music playing	Na písnickou.	data/vad-2013-08-21-09-32-03.269620.wav	../data/data_voip_en/data/jurcic-001-130708_153558_0000171_0000689.wav
+1.0255046494125628	None.	Neni.	data/VYSTADIAL-ST-2012-06-06--09-23-00-B-0447.24-0448.29.wav	../data/data_voip_en/data/jurcic-002-121014_233712_0003276_0003353.wav
+1.025490567141106	Any areas find I don't care where it is?	A kde že to je já, jsem teďka nevnímal.	data/VYSTADIAL-ST-2012-05-11--20-32-03-B-0274.63-0277.44.wav	../data/data_voip_en/data/jurcic-002-121027_014540_0003430_0003729.wav
+1.0254754677081968	(anywhere anywhere anywhere)	Všechno to je v hlavě a nikde jinde.	data/VYSTADIAL-ST-2012-08-24--10-45-33-A-0169.12-0171.69.wav	../data/data_voip_en/data/jurcic-004-121020_194101_0004123_0004392.wav
+1.0254698532580104	Spell address	ná výstaviště	data/vad-2013-10-04-14-20-42.427712.wav	../data/data_voip_en/data/jurcic-004-121018_201517_0007001_0007181.wav
+1.0252871129648198	OK What else do you have?	Co jinýho můžem dělat už?	data/VYSTADIAL-ST-2012-08-13--09-25-04-B-0414.07-0417.04.wav	../data/data_voip_en/data/jurcic-004-130723_204113_0006176_0006363.wav
+1.0250465640078064	Please give me the address again.	Prosím, zopakujte mi ten spoj.	data/vad-2013-10-01-19-23-03.389471.wav	../data/data_voip_en/data/jurcic-003-130715_091341_0004971_0005103.wav
+1.024987583362207	Internet connection	Nové spojení	data/vad-2013-06-20-10-50-22.187220.wav	../data/data_voip_en/data/jurcic-003-120923_154808_0002091_0002277.wav
+1.0249635076276544	Any type	Jako někoho.	data/VYSTADIAL-ST-2012-05-16--08-44-15-B-0434.06-0435.84.wav	../data/data_voip_en/data/jurcic-002-120913_060541_0003478_0003607.wav
+1.0248408168014964	What area?	Jakej kod?	data/VYSTADIAL-ST-2012-05-18--16-21-33-A-0126.41-0130.00.wav	../data/data_voip_en/data/jurcic-003-120913_172322_0004791_0004897.wav
+1.0245860797926645	Do u have a price range.	Ty brďo, tak máš výslužku.	data/VYSTADIAL-ST-2012-08-27--22-51-10-B-0219.75-0222.07.wav	../data/data_voip_en/data/jurcic-004-130705_035615_0005394_0005546.wav
+1.0244903111835626	Central area	Hlavní nádraží	data/vad-2013-06-23-13-57-38.229412.wav	../data/data_voip_en/data/jurcic-003-121004_060748_0004842_0004968.wav
+1.0244663070500253	That's all Super You've told me that can you please give me the address.	To tady nepíšeš, že bys, že bys mi to přivez, no?	data/VYSTADIAL-ST-2012-08-13--21-11-19-A-0333.08-0335.71.wav	../data/data_voip_en/data/jurcic-008-130705_183526_0007024_0007337.wav
+1.0243731895858181	Say it again.	Zopakuj to.	data/vad-2013-10-09-17-48-12.651246.wav	../data/data_voip_en/data/jurcic-005-120930_015205_0003989_0004090.wav
+1.0243700189956755	The cost was for food.	Odpovědnost za kvalitu je na producentech.	data/all-2012-06-19-18-53-20.053991.recorded-0426.22-0429.06.wav	../data/data_voip_en/data/jurcic-003-120925_112001_0004159_0004331.wav
+1.0242870897962841	No post code for that venue.	Napsat na ten web asi viď jako za tu.	data/VYSTADIAL-ST-2012-10-17--18-27-38-B-0540.93-0543.99.wav	../data/data_voip_en/data/jurcic-009-121001_155557_0011492_0011736.wav
+1.0242668880882224	Ccheap coffee shop	Stanice Českolipská	data/vad-2013-06-20-22-01-07.704854.wav	../data/data_voip_en/data/jurcic-002-120925_040442_0001203_0001266.wav
+1.0242002739711178	Well, a cafe.	Na to vodu.	data/VYSTADIAL-ST-2012-05-08--12-49-39-B-0372.92-0373.94.wav	../data/data_voip_en/data/jurcic-002-130708_191044_0003101_0003251.wav
+1.0241896924237728	That serves northern European food.	Severní Irsko slaví naději na mír.	data/all-2012-07-05-21-55-11.734956.recorded-0499.39-0502.80.wav	../data/data_voip_en/data/jurcic-003-120930_235703_0003353_0003588.wav
+1.0241067315358152	All right can you give me the address to them.	No dobrý můžeš si s tím zajet k doktorovi.	data/VYSTADIAL-ST-2012-09-29--18-39-57-A-0104.26-0106.50.wav	../data/data_voip_en/data/jurcic-002-121024_080159_0003755_0004068.wav
+1.0240820583722947	Could be any price range.	Podle návrhu to může být kterýkoliv poslanec.	data/all-2012-06-14-20-26-36.509536.recorded-0156.48-0159.69.wav	../data/data_voip_en/data/jurcic-002-120915_150600_0002264_0002402.wav
+1.0240598607738907	Doesn't charge a cover charge.	Přestal proplácet státnímu podniku faktury.	data/all-2012-06-19-18-53-20.053991.recorded-0415.68-0418.43.wav	../data/data_voip_en/data/jurcic-001-130715_055447_0000119_0000326.wav
+1.0239411126017732	CARINGONCTS	Barandov	data/vad-2013-09-10-15-53-47.011942.wav	../data/data_voip_en/data/jurcic-023-121004_152830_0014771_0014894.wav
+1.0239068677402807	What type does it have?	Co to začne dělat?	data/VYSTADIAL-ST-2012-10-13--06-30-25-B-0371.70-0373.08.wav	../data/data_voip_en/data/jurcic-002-130720_163910_0003380_0003541.wav
+1.023566069335246	OK, that sounds great that sounds very good thank you.	Tak to je svižný, docela to bude svižný.	data/VYSTADIAL-ST-2012-08-17--19-40-24-A-0417.57-0420.75.wav	../data/data_voip_en/data/jurcic-005-121024_233357_0008449_0008802.wav
+1.023558265401217	No preference.	Předchozí možnost.	data/vad-2013-06-23-13-37-14.502150.wav	../data/data_voip_en/data/jurcic-002-120930_221339_0003795_0003945.wav
+1.0234338880579061	Drinks	Karty	data/VYSTADIAL-ST-2012-10-16--14-38-57-B-0348.52-0349.87.wav	../data/data_voip_en/data/jurcic-004-120925_183943_0001939_0002017.wav
+1.0234204409709255	A pub I don't care about the price range I don't care if children are allowed.	Mě ty dožínky prakticky vůbec nezajmají, nevím, jestli tebe jo.	data/VYSTADIAL-ST-2012-09-29--17-40-26-A-0246.78-0251.00.wav	../data/data_voip_en/data/jurcic-002-130705_181825_0000786_0001311.wav
+1.0233879302433035	That's in a different area the Castlehill area.	Ale je to tam někde v tý oblasti, jo Rudolfina.	data/VYSTADIAL-ST-2012-10-03--16-03-45-A-0124.17-0126.80.wav	../data/data_voip_en/data/jurcic-011-120926_222044_0010483_0010794.wav
+1.0233589184835465	And the type of food that they serve.	Jo, takhle co co nakupujete.	data/VYSTADIAL-ST-2012-05-12--17-05-32-A-0259.21-0261.71.wav	../data/data_voip_en/data/jurcic-003-121024_231358_0005751_0006066.wav
+1.0233460748982166	Find a restaurant.	Kupte si.	data/VYSTADIAL-ST-2012-06-22--09-55-28-B-0106.92-0107.94.wav	../data/data_voip_en/data/jurcic-003-130720_204732_0000946_0001275.wav
+1.0232832842517257	That's Fine I need to know the address.	Tak to je v pohodě já, abych mohla víš co s tebou mluvit.	data/VYSTADIAL-ST-2012-10-18--17-35-29-B-0149.49-0152.99.wav	../data/data_voip_en/data/jurcic-005-130706_155346_0003038_0003322.wav
+1.0232089655773315	Yeah, I'm looking for a pub that has a TV and I don't care if it's child friendly or not.	Jo, já jsem říkala, že chodím s hadrou v noci večer, že to mám úplně horké a že mě to štípe nebo tkaničky.	data/VYSTADIAL-ST-2012-09-26--18-27-44-A-0196.43-0201.72.wav	../data/data_voip_en/data/jurcic-001-130707_130432_0001979_0002610.wav
+1.0231872391081018	It's a	Ano a.	data/VYSTADIAL-ST-2012-10-13--07-43-26-B-0338.58-0339.48.wav	../data/data_voip_en/data/jurcic-008-121015_110318_0005560_0005709.wav
+1.023057221362245	I care about the location.	To je pro změnu polohy.	data/VYSTADIAL-ST-2012-06-05--10-44-23-B-0448.16-0449.82.wav	../data/data_voip_en/data/jurcic-007-130704_145143_0008756_0008927.wav
+1.0230322072167632	Just wait for a sec.	Počkej teďkon.	data/VYSTADIAL-ST-2012-08-17--19-40-24-A-0649.89-0651.27.wav	../data/data_voip_en/data/jurcic-004-130724_012906_0002664_0002814.wav
+1.0229706410979966	What kind of does it serve?	K čemu vám to je?	data/VYSTADIAL-ST-2012-05-12--19-31-57-B-0218.63-0219.53.wav	../data/data_voip_en/data/jurcic-004-130720_034224_0005717_0005931.wav
+1.0229301830742226	Any as long as it's cheap.	No, no dvě, pokud jsou křupavý.	data/VYSTADIAL-ST-2012-08-10--19-54-17-A-0137.96-0141.15.wav	../data/data_voip_en/data/jurcic-002-120924_220231_0003353_0003660.wav
+1.0228537771102775	Traditional, but in the fenditton area, please:	Eště, prosim tě, je to Trojanova, jo?	data/VYSTADIAL-ST-2012-10-03--16-03-45-B-0119.27-0122.21.wav	../data/data_voip_en/data/jurcic-007-130716_193205_0005614_0005977.wav
+1.0228181907091203	Yes, I'm looking for a restaurant.	Jo, mám večeři.	data/VYSTADIAL-ST-2012-06-20--17-32-20-B-0135.22-0136.94.wav	../data/data_voip_en/data/jurcic-001-130705_112626_0002037_0002211.wav
+1.0228093715890685	Please repeat.	Zopakovat prosím.	data/vad-2013-10-09-17-48-47.406578.wav	../data/data_voip_en/data/jurcic-002-120916_032930_0003929_0004029.wav
+1.0227277044343723	Looking for English: Restaurant with:	Vladimír Dlouhý na kandidáta na...	data/all-2012-07-27-19-10-33.730330.recorded-0050.73-0055.57.wav	../data/data_voip_en/data/jurcic-005-120925_023232_0001800_0002040.wav
+1.0227024396938753	That's Not Important	No to nebude nic důležitého.	data/VYSTADIAL-ST-2012-06-10--08-46-53-A-0193.59-0196.19.wav	../data/data_voip_en/data/jurcic-002-121029_144525_0003403_0003544.wav
+1.0226924654483327	And I Don't Care What area it's in?	A ten nevím, kterej je.	data/VYSTADIAL-ST-2012-08-17--19-40-24-B-0196.94-0199.12.wav	../data/data_voip_en/data/jurcic-002-130714_034458_0002142_0002345.wav
+1.0226001407838181	Moderately priced with address phone number and post code.	K použití za nízký poplatek slunečníky a lehátka.	data/all-2012-06-16-18-23-00.128065.recorded-0569.73-0573.58.wav	../data/data_voip_en/data/jurcic-002-120923_232711_0002436_0002857.wav
+1.022584525673262	Find something close the closest location, other closest location.	Jasný jít si někam posedět, třeba zase do toho podsvětí třeba nebo někam jinam.	data/VYSTADIAL-ST-2012-09-17--21-24-22-B-0550.28-0556.33.wav	../data/data_voip_en/data/jurcic-010-120922_181010_0014164_0014568.wav
+1.0225677548462353	Pub Cherryhinton	Praha Jinonice	data/vad-2013-09-29-10-17-47.845407.wav	../data/data_voip_en/data/jurcic-001-121015_005128_0002011_0002231.wav
+1.022542018066058	Excellent	Výborný.	data/VYSTADIAL-ST-2012-10-17--18-27-38-A-0422.45-0423.20.wav	../data/data_voip_en/data/jurcic-005-121002_201556_0007741_0007835.wav
+1.0224884048545526	That's good can I get the address.	To se dá rozložit ten stůl.	data/VYSTADIAL-ST-2012-06-07--19-10-36-A-0079.65-0081.21.wav	../data/data_voip_en/data/jurcic-010-121027_154829_0008338_0008488.wav
+1.0224495038273156	I search for a restaurant.	Vyhledávání knížek.	data/vad-2013-10-09-17-37-03.025026.wav	../data/data_voip_en/data/jurcic-001-120923_034844_0001888_0002087.wav
+1.022413837429832	For a cheap pub.	To je bludnej kruh.	data/VYSTADIAL-ST-2012-05-16--14-31-36-B-0368.53-0370.00.wav	../data/data_voip_en/data/jurcic-002-130703_232442_0002597_0002756.wav
+1.022388028619904	Like to EAT Mediterranean, food in a restaurant.	Do sebe láduje ňáký chleby s máslem a a pude jíst za chviličku teda pude spát no.	data/VYSTADIAL-ST-2012-06-03--20-00-17-A-0122.50-0127.56.wav	../data/data_voip_en/data/jurcic-002-121017_200341_0001053_0001240.wav
+1.0223848888786904	I would like Chinese.	Chtěl bych je z Anděla.	data/vad-2013-06-20-15-11-43.209469.wav	../data/data_voip_en/data/jurcic-002-120912_135931_0003641_0003841.wav
+1.0223549681715132	More noise sounds like turning of pages in a book.	Ale furt jdeš ještě dál, jako by podél toho břehu a pak už začinaj ty chaty v takovym tom lesíku.	data/VYSTADIAL-ST-2012-08-16--20-37-22-A-0304.93-0310.43.wav	../data/data_voip_en/data/jurcic-003-130713_184309_0002660_0002847.wav
+1.0222745178937565	Anything	Všeho.	data/VYSTADIAL-ST-2012-05-13--09-31-36-B-0413.69-0415.42.wav	../data/data_voip_en/data/jurcic-002-121003_211209_0003136_0003237.wav
+1.022237384660958	Contemporary restaurant That's cheap	Fryčovická červený vrch, to je strašný.	data/vad-2013-09-29-11-08-27.703795.wav	../data/data_voip_en/data/jurcic-005-130711_175004_0001821_0002064.wav
+1.0221651483768546	OK Thank, you very much I appreciate your help thank you and goodbye.	Tak jo, jsem ráda, žes mi zavolal díky a měj se hezky a čau.	data/VYSTADIAL-ST-2012-10-19--11-25-45-B-0435.77-0439.80.wav	../data/data_voip_en/data/jurcic-013-121025_001103_0013214_0013766.wav
+1.0221578786290213	Cafe, food, restaurant, and I don't care about the price range.	Cigarety a drogy, on drogy, ne cigarety a...	data/VYSTADIAL-ST-2012-08-15--13-58-18-A-0458.82-0462.61.wav	../data/data_voip_en/data/jurcic-002-130711_190731_0003245_0003610.wav
+1.0221555031704312	It what is the phone number.	To je asi no to číslo.	data/VYSTADIAL-ST-2012-06-06--09-23-00-A-0107.28-0109.75.wav	../data/data_voip_en/data/jurcic-002-121006_184903_0003945_0004131.wav
+1.022130737203388	What was that?	Co to je to?	data/VYSTADIAL-ST-2012-08-13--22-00-19-B-0379.71-0381.80.wav	../data/data_voip_en/data/jurcic-003-130720_181836_0003458_0003551.wav
+1.0221121577982615	I am looking for Thai food in the expensive price range.	Výroba jíla probíhá za dodržování přísných hygienických podmínek.	data/all-2012-07-03-16-12-26.233224.recorded-0412.01-0417.08.wav	../data/data_voip_en/data/jurcic-005-130711_020054_0004120_0004553.wav
+1.022049126358924	Yes I am in the Fenditton area.	Že jo, jely jsme kolem památníku Lidice.	data/VYSTADIAL-ST-2012-06-02--19-11-14-A-0280.70-0283.19.wav	../data/data_voip_en/data/jurcic-001-121029_120342_0001986_0002314.wav
+1.0220427546360724	A cheap pub that has a TV.	Tak beruško teďkon je film.	data/VYSTADIAL-ST-2012-06-03--20-00-17-B-0445.93-0449.52.wav	../data/data_voip_en/data/jurcic-004-130722_031520_0002020_0002280.wav
+1.0220361321513707	Castlehill can I have a:	A v pátek mám tu Algebru: No.	data/VYSTADIAL-ST-2012-05-28--16-18-54-A-0323.92-0326.20.wav	../data/data_voip_en/data/jurcic-005-130722_034711_0007341_0007646.wav
+1.021800713027109	Yes, I'D like a pub food restaurant in the cherryhinton area.	Ano, chtěl bych jet poliklinika modřany na ípé Pavlova.	data/vad-2013-09-26-13-01-48.248661.wav	../data/data_voip_en/data/jurcic-001-130717_011434_0001872_0002357.wav
+1.021794056603888	And is Chiquito in the Addenrooke's area.	Ze Sparty na malostranskou.	data/vad-2013-06-11-20-35-45.236674.wav	../data/data_voip_en/data/jurcic-014-130722_191644_0007038_0007291.wav
+1.0217795749698795	No phone number	Neozvala se.	data/VYSTADIAL-ST-2012-06-06--15-16-08-B-0783.59-0785.22.wav	../data/data_voip_en/data/jurcic-008-130721_003347_0008466_0008614.wav
+1.0217647959592528	No anywhere in FIN ditton.	Vůbec mi neříkal vo ňáký chemo.	data/VYSTADIAL-ST-2012-05-25--12-31-35-B-0607.82-0611.66.wav	../data/data_voip_en/data/jurcic-002-130703_232317_0003905_0004187.wav
+1.0216819641833088	But is there a restaurant with free food.	Přitom se na místo Libera vrátil omilostněný suchopárek.	data/all-2012-06-16-12-04-29.934457.recorded-0584.20-0588.32.wav	../data/data_voip_en/data/jurcic-005-120930_053659_0008272_0008533.wav
+1.0216443703991265	Restaurant in BARN well any price range.	Přídavky na děti jablkem sváru.	data/all-2012-11-29-16-40-33.345141.recorded-0146.34-0148.62.wav	../data/data_voip_en/data/jurcic-001-130710_061357_0001892_0002174.wav
+1.021447025402609	I I have no preference.	No já mám neschopenku.	data/VYSTADIAL-ST-2012-06-22--09-55-28-B-0088.17-0090.03.wav	../data/data_voip_en/data/jurcic-006-130716_193155_0004725_0004979.wav
+1.0214118955400822	What's their address and their price	Jejich bytí nebo jejich konec.	data/all-2012-06-19-18-53-20.053991.recorded-0352.95-0354.80.wav	../data/data_voip_en/data/jurcic-007-130709_035706_0003876_0004093.wav
+1.0213686690324146	Repeat the phone number.	Zopakovat předchozí spojení.	data/vad-2013-09-03-12-28-11.554098.wav	../data/data_voip_en/data/jurcic-003-121008_194527_0005742_0005891.wav
+1.0212355435542106	Miller's Yard	Klárův Ústav.	data/vad-2013-10-08-21-47-42.635990.wav	../data/data_voip_en/data/jurcic-004-120925_183321_0004957_0005098.wav
+1.0211662096902232	And what's the area again.	A a jinak to tam zase ňák přeuspořádal.	data/VYSTADIAL-ST-2012-05-19--16-47-38-A-0165.98-0168.25.wav	../data/data_voip_en/data/jurcic-004-130705_182805_0005582_0005729.wav
+1.021132613778607	Great could I have the address and area of the venue please.	Ne, chtěla bych jet prosím ze zastávky Zličín.	data/vad-2013-09-28-12-22-36.791800.wav	../data/data_voip_en/data/jurcic-004-121010_184330_0006082_0006426.wav
+1.0210810799967167	In the ADDENBLICE'S area.	Tam v Ostravě.	data/VYSTADIAL-ST-2012-06-21--09-16-41-B-0232.68-0234.36.wav	../data/data_voip_en/data/jurcic-002-120915_212119_0002353_0002539.wav
+1.021012316676086	Say bye.	Na shledanó.	data/vad-2013-10-04-14-45-31.139478.wav	../data/data_voip_en/data/jurcic-005-120913_141312_0008925_0009046.wav
+1.0209062840126484	What area of town?	Z jaké zastávky?	data/vad-2013-07-12-01-39-30.699329.wav	../data/data_voip_en/data/jurcic-003-121019_220638_0003407_0003621.wav
+1.0209038619556285	East Asian	Kubáňské náměstí	data/vad-2013-10-15-16-31-08.757633.wav	../data/data_voip_en/data/jurcic-002-121012_022942_0003262_0003395.wav
+1.020891011771144	The Barnwell area.	Ze sídliště Barrandov.	data/vad-2013-06-22-11-08-45.082365.wav	../data/data_voip_en/data/jurcic-002-130704_213042_0003504_0003714.wav
+1.0208842347943936	ADDRESS AND POSAL CODE What is the address and postal code for the ugly duckling please?	O jsou to takový zatim, to vypadá prostě jak ty pindy, co co je tak na vobrázcích a co dovopravdy symbolizujou dod umění přes reklamy.	data/VYSTADIAL-ST-2012-05-17--20-26-15-A-0138.67-0145.09.wav	../data/data_voip_en/data/jurcic-008-120929_212908_0010256_0012623.wav
+1.0207660123002227	Hakka	Chodov	data/vad-2013-07-10-19-20-36.184192.wav	../data/data_voip_en/data/jurcic-007-120914_114044_0010617_0010688.wav
+1.0207035155169122	No, no, no, no no, i'm looking for a restaurant in a different area of town.	Né ne, to to ne, to ne, to já teď nebudu zjišťovat to tam ve škole, to je na těch.	data/VYSTADIAL-ST-2012-10-17--18-27-38-A-0608.42-0613.61.wav	../data/data_voip_en/data/jurcic-012-120926_222105_0012294_0012847.wav
+1.020687845814008	You are looking for a free restaurant and it should be in the city center area I want to know the address phone number and price of venue.	A už ti to navádí zadejte číslo účastníka, tak je dobrý mít na papírku připravený, jako já jsem si teď vypsal tvoje číslo, že jo komu chci volat.	data/VYSTADIAL-ST-2012-05-18--19-22-02-A-0369.63-0379.41.wav	../data/data_voip_en/data/jurcic-001-120913_002450_0002011_0002786.wav
+1.0206824099285012	Any venue	celej den	data/VYSTADIAL-ST-2012-05-09--15-25-06-B-0288.24-0289.02.wav	../data/data_voip_en/data/jurcic-002-120914_135107_0003223_0003360.wav
+1.0206585973311109	You know the address	Ta značka Víš.	data/VYSTADIAL-ST-2012-06-14--18-44-23-B-0407.64-0409.42.wav	../data/data_voip_en/data/jurcic-002-130715_191256_0003405_0003543.wav
+1.0206290807625726	PUB allow children and television.	Puma chce vrátit fotbal do ulic.	data/all-2012-06-22-23-59-36.637289.recorded-0508.18-0511.01.wav	../data/data_voip_en/data/jurcic-001-130713_025928_0001989_0002326.wav
+1.0205983013933257	Pub	Můstek	data/vad-2013-06-27-11-42-04.420185.wav	../data/data_voip_en/data/jurcic-001-120916_053847_0002078_0002157.wav
+1.020344791579022	Post code:	Následující spojení:	data/vad-2013-06-23-12-30-13.021344.wav	../data/data_voip_en/data/jurcic-003-120912_230432_0004784_0004914.wav
+1.0203184470958255	A moderately priced pub in the Castlehill area and whether it has internet connection.	Se normálně ňák koupí a v Baumaxu má tam ňákej slevy deset procent nebo v barvě dům barev.	data/VYSTADIAL-ST-2012-08-13--22-00-19-B-0153.98-0159.35.wav	../data/data_voip_en/data/jurcic-002-120930_205833_0001310_0002151.wav
+1.0203155694184525	Seafood restaurant and it should have expensive price range.	A jogurt se semínkama a to von k tomu musí mít výživu.	data/VYSTADIAL-ST-2012-08-21--19-30-34-B-0176.55-0180.11.wav	../data/data_voip_en/data/jurcic-001-121010_205509_0001960_0002366.wav
+1.02027495362199	Newton area	Newtonova.	data/vad-2013-09-30-19-00-01.228754.wav	../data/data_voip_en/data/jurcic-004-130705_180128_0006746_0006874.wav
+1.0201475219215583	In a price range is fine.	Tak to je hodně dobrá cena, ty jo.	data/VYSTADIAL-ST-2012-06-06--15-16-08-A-0303.09-0305.45.wav	../data/data_voip_en/data/jurcic-003-121027_015706_0002702_0002899.wav
+1.0200709969115256	Yeah Fenditton	Tak Martinko.	data/VYSTADIAL-ST-2012-05-15--13-17-24-B-0467.28-0468.78.wav	../data/data_voip_en/data/jurcic-007-130723_230815_0006864_0007048.wav
+1.0200458994045067	Cherry	Nektarinky	data/VYSTADIAL-ST-2012-08-10--19-54-17-A-0382.97-0384.78.wav	../data/data_voip_en/data/jurcic-002-121017_201543_0000630_0000717.wav
+1.0200126525343318	No where is the avery.	Jo, tak to já nevím, kde je ani.	data/VYSTADIAL-ST-2012-08-17--17-12-05-B-0267.81-0270.21.wav	../data/data_voip_en/data/jurcic-003-130711_175726_0004458_0004777.wav
